@@ -1,0 +1,40 @@
+prefix: |
+    # Instruction
+    This is a multimodal question answering task.
+    A user is assembling a toy car.
+parts: |
+    # Parts/Final Picture/Exploded View
+    This is the image containing the parts, final picture, and/or exploded view.
+manual:
+    dot: |
+        # Assembling Manual
+        This is the assembling manual as text in the DOT (graph description language from Graphviz) format.
+        Each node represents one step and each edge represents an order dependency.
+        Two nodes connected by an edge must be performed in the specified order.
+        Nodes that are not directly connected can be performed in any order, as long as their respective prerequisites have been completed.
+        {dot}
+    dag: |
+        # Assembling Manual
+        This is the assembling manual as image in the DAG (Directed Acyclic Graph) format.
+        Each node represents one step and each edge represents an order dependency.
+        Two nodes connected by an edge must be performed in the specified order.
+        Nodes that are not directly connected can be performed in any order, as long as their respective prerequisites have been completed.
+recording: |
+    # Recording
+    These are the sampled frames in sequence from the recording of the user's activity.
+note:
+    text-only: |
+        # Note
+        You do not have access to the recording of the user's activity.
+task: |
+    # Task
+    The user asked the following question. Answer the question in one consice sentence, based on the give information above (parts, manual, and recording).
+    [Question]
+    {question}
+    [Answer]
+task-text: |
+    # Task
+    The user asked the following question. Answer the question in one consice sentence, based on the give information.
+    [Question]
+    {question}
+    [Answer]
