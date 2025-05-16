@@ -63,15 +63,15 @@ pip install pydot datasets
 Make sure to set an API key for each API model. Please check each `.sh` file for configurations.
 * API models: `python src/benchmark/run_api.py --model_id <model_id>`
     * `<model_id>`: `gpt-4o-2024-11-20`
-* DeepSeek-R1: `bash src/benchmark/run_deepseek_r1.py`
-* Qwen2.5-VL: `bash src/benchmark/run_qwen.py`
-* InternVL3: `bash src/benchmark/run_internvl.py`
-* LLaVA-Video: `bash src/benchmark/run_llava_video.py`
+* DeepSeek-R1: `python src/benchmark/run_deepseek_r1.py`
+* Qwen2.5-VL: `python src/benchmark/run_qwen.py`
+* InternVL3: `python src/benchmark/run_internvl.py`
+* LLaVA-Video: `python src/benchmark/run_llava_video.py`
 
 ### Evaluation
 Make sure to set an API key, e.g., `export OPENAI_API_KEY=<your_key>`
 ```bash
-bash src/evaluate/run.py --file <target_prediction_file>
+python src/evaluate/run.py --file <target_prediction_file>
 ```
 
 ## Citation (TBU)
