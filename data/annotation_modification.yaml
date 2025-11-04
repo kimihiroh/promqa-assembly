@@ -1,0 +1,147 @@
+a08:
+    "attach bumper to grill": "attach bumper to grill with nut"
+    "attach crane arm to chassis": "attach crane arm/base to chassis"
+    "attach base to chassis": "attach crane arm/base to chassis"
+    "attach bumper to cabin": "attach bumper to grill with nut"
+a09:
+    "attach cabin to chassis": "attach cabin to interior"
+    "attach boom to arm": "attach arm to boom"
+a10:
+    "attach cabin back to interior": "attach cabin back to interior/chassis"
+    "attach cabin back to chassis": "attach cabin back to interior/chassis"
+a14:
+    "attach transport cabin to door": "attach door to base/attach transport cabin to door/attach door to transport cabin"
+    "attach door to transport cabin": "attach door to base/attach transport cabin to door/attach door to transport cabin"
+    "attach door to base": "attach door to base/attach transport cabin to door/attach door to transport cabin"
+    "attach light to cabin": "attach light to roof"
+a16:
+    "attach interior to cabin": "attach cabin to interior"
+    "attach chassis to interior": "attach interior to chassis"
+a18:
+    "attach chassis to cabin": "attach cabin to chassis"
+    "attach chassis to water tank": "attach water tank to chassis"
+    "attach door to cabin": "attach door to water tank"
+a19:
+    "attach ladder bascket to body": "attach ladder to body"
+a23:
+    "attach rocker panel to chassis": "attach rocker panel to body"
+a24:
+    "attach body to engine": "attach body to interior"
+    "attach rear body to interior": "attach rear body to chassis"
+a29:
+    "attach back seat to interior": "attach back seat to chassis"
+a30:
+    "attach body to chassis": "attach body to interior"
+b01b:
+    "attach push frame to arm": "attach arm to push frame"
+    "attach arm to nut": "attach nut to arm"
+    "attach push frame to roller": "attach roller to push frame"
+    "attach chassis to interior": "attach interior to chassis"
+b02b:
+    "attach cabin to chassis": "attach cabin to interior"
+b03a:
+    "attach interior to cabin": "attach cabin to interior"
+    "attach bucket to ladder": "attach basket to ladder"
+b03b:
+    "attach interior to cabin": "attach cabin to interior"
+b04a:
+    "attach interior to cabin": "attach cabin to interior"
+b04c:
+    "attach arm connector to boom": "attach boom to arm connector"
+    "attach interior to cabin": "attach cabin to interior"
+b04d:
+    "attach arm connector to push frame": "attach push frame to arm connector"
+    "attach interior to cabin": "attach cabin to interior"
+b05b:
+    "attach turntable base to turntable top": "attach turntable top to turntable base"
+    "attach boom to turntable top": "attach turntable top to boom"
+    "attach boom to arm": "attach arm to boom"
+    "attach bumper to chassis": "attach bumper to cabin"
+b05c:
+    "attach mixer stand to mixer": "attach mixer to mixer stand"
+    "attach rear bumper to chassis": "attach rear bumper to interior"
+    "attach mixer stand to chassis": "attach mixer stand to interior"
+b05d:
+    "attach dump bed to chassis": "attach dump bed/base to chassis"
+b06a:
+    "attach chassis to interior": "attach interior to chassis"
+b06d:
+    "attach mixer stand to interior": "attach mixer stand to tilter"
+b08a:
+    "attach interior to cabin": "attach cabin to interior"
+b08c:
+    "attach arm to bucket": "attach bucket to arm"
+    "attach chassis to interior": "attach interior to chassis"
+    "attach arm to arm connector": "attach arm connector to arm"
+b08d:
+    "attach base to dumpbed": "attach base to dump bed"
+c02a:
+    "attach arm connector to boom": "attach boom to arm connector"
+    "attach arm to bucket": "attach bucket to arm"
+    "attach chassis to arm connector": "attach arm connector to chassis"
+    "attach interior to cabin": "attach cabin to interior"
+    "attach bumper to chassis": "attach bumper to body"
+c02b:
+    "attach arm connector to body": "attach arm connector to chassis"
+c02c:
+    "attach roller arm to chassis": "attach arm connector to chassis"
+c03a:
+    "attach excavator arm to arm connector": "attach arm connector to excavator arm"
+c03b:
+    "attach cabin window to cabin": "attach cabin to cabin window"
+c03c:
+    "attach mixer to chassis": "attach mixer stand to chassis"
+    "attach cabin to chassis": "attach cabin to body"
+c03e:
+    "attach boom to arm connector": "attach arm connector to boom"
+    "attach boom to chassis": "attach chassis to boom"
+    "attach cabin window to cabin": "attach cabin window to chassis"
+    "attach cabin to chassis": "attach cabin window to chassis"
+c04a:
+    "attach arm connector to boom": "attach boom to arm connector"
+c04d:
+    "attach interior to cabin": "attach cabin to interior"
+    "attach bumper to interior": "attach bumper to cabin"
+c06a:
+    "attach cabin to chassis": "attach chassis to interior"
+c06b:
+    "attach mixer stand to mixer": "attach mixer to mixer stand"
+c06e:
+    "attach base to turntable base": "attach turntable base to base"
+    "attach cabin to chassis": "attach cabin to interior"
+c07b:
+    "attach interior to cabin": "attach cabin to interior"
+    "attach body to base": "attach base to body"
+    "attach bumper to interior": "attach interior to bumper"
+c08a:
+    "attach body to base": "attach base to body"
+    "attach interior to cabin": "attach cabin to interior"
+c08c:
+    "attach door to base": "attach door to transport cabin/base"
+    "attach door to transport cabin": "attach door to transport cabin/base"
+    "attach interior to cabin": "attach cabin to interior"
+c09a:
+    "attach dump bed to cylinder": "attach cylinder to dump bed"
+    "attach cylinder to base": "attach base to cylinder"
+    "attach base to dump bed": "attach dump bed to base"
+c09b:
+    "attach interior to cabin": "attach cabin to interior"
+c09c:
+    "attach interior to cabin": "attach cabin to interior"
+    "attach chassis to base": "attach base to chassis"
+    "attach base to transport cabin": "attach transport cabin to base"
+c10b:
+    "attach cylinder to base": "attach cylinder to base/dump bed"
+    "attach cylinder to dump bed": "attach cylinder to base/dump bed"
+    "attach base to dump bed": "attach dump bed to base"
+    "attach interior to cabin": "attach cabin to interior"
+c10c:
+    "attach interior to cabin": "attach cabin to interior"
+c12e:
+    "attach interior to cabin": "attach cabin to interior"
+c13d:
+    "attach bucket to body": "attach bucket to chassis"
+c14a:
+    "attach body to base": "attach front body to base"
+c14b:
+    "attach body to base": "attach front body to base"

@@ -1,0 +1,5019 @@
+[
+    {
+        "toy_id": "c02c",
+        "sequence_id": "nusar-2021_action_both_9064-c02c_9064_user_id_2021-02-22_163357",
+        "video": {
+            "start": 209.06666666666666,
+            "end": 242.4
+        },
+        "question": "Why is the rear body not fitting properly?",
+        "answers": [
+            "Because the cabin wasn't attached first.",
+            "The rear body alignment depends on the cabin being in place.",
+            "The interior and the cabin feed to be attached first, then the rear body.",
+            "Detach the rear body and then attach the interior and the cabin before you reattach the rear body.",
+            "Because the interior with the cabin needs to be attached to the chassis prior to attaching rear body to it."
+        ]
+    },
+    {
+        "toy_id": "b02b",
+        "sequence_id": "nusar-2021_action_both_9034-b02b_9034_user_id_2021-02-04_153734",
+        "video": {
+            "start": 321.4,
+            "end": 547.4333333333333
+        },
+        "question": "Did I position the engine cover correctly before screwing it in?",
+        "answers": [
+            "Yes, it looks aligned properly.",
+            "Yes, it's in the right position."
+        ]
+    },
+    {
+        "toy_id": "b05a",
+        "sequence_id": "nusar-2021_action_both_9065-b05a_9095_user_id_2021-02-17_122813",
+        "video": {
+            "start": 202.7,
+            "end": 293.9
+        },
+        "question": "Should I reattach the bucket before fixing the arm to the boom?",
+        "answers": [
+            "Yes, reattach the bucket first, then work on the arm and boom.",
+            "You can attach the cabin and the arm connector in any order.",
+            "You can position the cabin anytime.",
+            "Either step can be performed in any order as they are not dependent on each other."
+        ]
+    },
+    {
+        "toy_id": "c02c",
+        "sequence_id": "nusar-2021_action_both_9064-c02c_9064_user_id_2021-02-22_163357",
+        "video": {
+            "start": 209.06666666666666,
+            "end": 286.1333333333333
+        },
+        "question": "Am I supposed to position the cabin before or after the arm connector?",
+        "answers": [
+            "Yes, as you have already attached the cabin.",
+            "Yes, you can attach the bumper first."
+        ]
+    },
+    {
+        "toy_id": "b05d",
+        "sequence_id": "nusar-2021_action_both_9071-b05d_9071_user_id_2021-02-11_094129",
+        "video": {
+            "start": 229.1,
+            "end": 373.626355
+        },
+        "question": "Can I attach the bumper first?",
+        "answers": [
+            "Yes, as you have already attached the cabin.",
+            "Yes, you can attach the bumper first."
+        ]
+    },
+    {
+        "toy_id": "c03b",
+        "sequence_id": "nusar-2021_action_both_9042-c03b_9042_user_id_2021-02-05_120824",
+        "video": {
+            "start": 148.4,
+            "end": 258.959284
+        },
+        "question": "Does the bulldozer arm attach to the arm connector with a screw?",
+        "answers": [
+            "Yes, they are connected with a screw when the arm connector is fixed to the chassis.",
+            "Yes, the screw attaches the bulldozer arm to the arm connecter.",
+            "Yes, the bulldozer arm should be attached to the arm connector with a screw."
+        ]
+    },
+    {
+        "toy_id": "c03a",
+        "sequence_id": "nusar-2021_action_both_9083-c03a_9083_user_id_2021-02-16_114344",
+        "video": {
+            "start": 118.93333333333334,
+            "end": 258.26666666666665
+        },
+        "question": "Did I skip a step before attaching the arm connector?",
+        "answers": [
+            "Yes, you skipped attaching the excavator arm to the chassis.",
+            "Yes, the arm connector should be attached to the excavator arm after the excavator arm is attached to the chassis.",
+            "Yes, before attaching the arm connector to the excavator arm, you must first attach the excavator arm to chassis."
+        ]
+    },
+    {
+        "toy_id": "b05c",
+        "sequence_id": "nusar-2021_action_both_9021-b05c_9021_user_id_2021-02-23_094649",
+        "video": {
+            "start": 125.2,
+            "end": 281.8333333333333
+        },
+        "question": "Where did I go wrong while attaching the rear bumper?",
+        "answers": [
+            "You attached the front bumper too soon before attaching the cabin, but the rear bumper is fine.",
+            "No, nothing goes wrong with the rear bumper, however, you should not attach the front bumper directly to the chassis."
+        ]
+    },
+    {
+        "toy_id": "c11a",
+        "sequence_id": "nusar-2021_action_both_9054-c11a_9054_user_id_2021-02-08_162610",
+        "video": {
+            "start": 162.53333333333333,
+            "end": 432.46666666666664
+        },
+        "question": "Should I have done something differently before attaching the bumper?",
+        "answers": [
+            "Yes, the nut needs to be attached to the body before attaching the front bumper.",
+            "You did a good job attaching the rear bumper.",
+            "Yes, you should have attached the bumper to nut on the body, not the bumper directly to the body."
+        ]
+    },
+    {
+        "toy_id": "b01b",
+        "sequence_id": "nusar-2021_action_both_9063-b01b_9063_user_id_2021-02-17_092512",
+        "video": {
+            "start": 206.16666666666666,
+            "end": 309.5
+        },
+        "question": "What should I do next after attaching the push frame?",
+        "answers": [
+            "You can attach the wheel to the chassis.",
+            "You can attach the nut to the arm.",
+            "You can attach the arm to the push frame.",
+            "You may attach the wheel to the chassis.",
+            "You can attach the nut to the arm next.",
+            "You can attach the arm to the push frame."
+        ]
+    },
+    {
+        "toy_id": "b01a",
+        "sequence_id": "nusar-2021_action_both_9044-b01a_9044_user_id_2021-02-19_085343",
+        "video": {
+            "start": 203.83333333333334,
+            "end": 353.0
+        },
+        "question": "Should I attach the arm to something next?",
+        "answers": [
+            "Yes, you could attach the arm to the nut.",
+            "Yes, you could attach the arm to the arm connector.",
+            "Yes, you could attach the arm to the bucket.",
+            "Yes, you may attach the arm to the nut."
+        ]
+    },
+    {
+        "toy_id": "c08c",
+        "sequence_id": "nusar-2021_action_both_9082-c08c_9082_user_id_2021-02-16_094651",
+        "video": {
+            "start": 122.0,
+            "end": 260.4
+        },
+        "question": "Should I finish attaching the rear roof first or pick up the wheel again?",
+        "answers": [
+            "You have finished attaching the rear roof, and you can move on to attaching wheels."
+        ]
+    },
+    {
+        "toy_id": "c14a",
+        "sequence_id": "nusar-2021_action_both_9086-c14a_9086_user_id_2021-02-16_153910",
+        "video": {
+            "start": 183.13333333333333,
+            "end": 352.76666666666665
+        },
+        "question": "Is this the right way to position the bucket?",
+        "answers": [
+            "Yes, but make sure it aligns with the arm holes.",
+            "Yes, the curved side should face outward like that."
+        ]
+    },
+    {
+        "toy_id": "b05c",
+        "sequence_id": "nusar-2021_action_both_9084-b05c_9084_user_id_2021-02-25_152453",
+        "video": {
+            "start": 156.1,
+            "end": 202.16666666666666
+        },
+        "question": "What should I do after putting down the partial toy?",
+        "answers": [
+            "You can attach the rear bumper to the interior next.",
+            "You may attach the cabin to the interior.",
+            "You can move on to prepare the mixer stand by attaching them together on the mixer."
+        ]
+    },
+    {
+        "toy_id": "c10b",
+        "sequence_id": "nusar-2021_action_both_9053-c10b_9053_user_id_2021-02-08_143830",
+        "video": {
+            "start": 213.96666666666667,
+            "end": 255.4
+        },
+        "question": "Should I secure the fourth wheel with a screw now?",
+        "answers": [
+            "Yes, screw in the forth wheel the same way you did the other three."
+        ]
+    },
+    {
+        "toy_id": "b04c",
+        "sequence_id": "nusar-2021_action_both_9084-b04c_9084_user_id_2021-02-25_144254",
+        "video": {
+            "start": 111.36666666666666,
+            "end": 298.93333333333334
+        },
+        "question": "Am I done, or is there something left to finish?",
+        "answers": [
+            "You're done! The toy is complete."
+        ]
+    },
+    {
+        "toy_id": "b05b",
+        "sequence_id": "nusar-2021_action_both_9066-b05b_9066_user_id_2021-02-17_154153",
+        "video": {
+            "start": 240.63333333333333,
+            "end": 366.3
+        },
+        "question": "Did I attach the front bumper in the wrong order?",
+        "answers": [
+            "Yes, the front bumper should be attached after the cabin.",
+            "Yes, you skipped the cabin step first.",
+            "Yes, the front bumper should be attached after attaching the cabin to the interior."
+        ]
+    },
+    {
+        "toy_id": "c02a",
+        "sequence_id": "nusar-2021_action_both_9061-c02a_9061_user_id_2021-02-09_141537",
+        "video": {
+            "start": 270.03333333333336,
+            "end": 497.9
+        },
+        "question": "Am I supposed to use screws for the boom and arm connector?",
+        "answers": [
+            "No, that step doesn\u2019t require screws.",
+            "No, the boom and arm connector just click together."
+        ]
+    },
+    {
+        "toy_id": "a16",
+        "sequence_id": "nusar-2021_action_both_9012-a16_9012_user_id_2021-02-01_162904",
+        "video": {
+            "start": 174.06666666666666,
+            "end": 220.0
+        },
+        "question": "Did I skip something important before working on the cabin?",
+        "answers": [
+            "Yes, you skipped attaching the interior to the chassis."
+        ]
+    },
+    {
+        "toy_id": "b06d",
+        "sequence_id": "nusar-2021_action_both_9065-b06d_9095_user_id_2021-02-17_123817",
+        "video": {
+            "start": 153.0,
+            "end": 205.83333333333334
+        },
+        "question": "Do I need to finish the wheels before moving to the next step?",
+        "answers": [
+            "No, you can move to the cabin or tilter if you want.",
+            "You may move on to the other steps first, however, it's best to complete the wheels for a neater assembly."
+        ]
+    },
+    {
+        "toy_id": "b05a",
+        "sequence_id": "nusar-2021_action_both_9043-b05a_9043_user_id_2021-02-05_134455",
+        "video": {
+            "start": 311.43333333333334,
+            "end": 539.2
+        },
+        "question": "Is the turntable top supposed to go on before or after the base?",
+        "answers": [
+            "Either way is fine, but you need to make sure that the turntable top is on top of the turntable base."
+        ]
+    },
+    {
+        "toy_id": "c03e",
+        "sequence_id": "nusar-2021_action_both_9022-c03e_9022_user_id_2021-02-23_111647",
+        "video": {
+            "start": 91.76666666666667,
+            "end": 145.2
+        },
+        "question": "Should I finish attaching the arm connector to the boom before doing anything else?",
+        "answers": [
+            "You may switch to attach the wheels to the chassis and later come back to finish the arm connector.",
+            "You must finish attaching the arm connector to the boom before attaching the arm connector to the chassis."
+        ]
+    },
+    {
+        "toy_id": "c02a",
+        "sequence_id": "nusar-2021_action_both_9084-c02a_9084_user_id_2021-02-25_140008",
+        "video": {
+            "start": 129.6,
+            "end": 217.86666666666667
+        },
+        "question": "Was it right to remove the arm connector just now?",
+        "answers": [
+            "Yes, you need to attach the boom to the arm connector first before attaching the arm connector to the chassis."
+        ]
+    },
+    {
+        "toy_id": "a28",
+        "sequence_id": "nusar-2021_action_both_9042-a28_9042_user_id_2021-02-05_113759",
+        "video": {
+            "start": 215.93333333333334,
+            "end": 294.5
+        },
+        "question": "What should I have done before attaching the roof?",
+        "answers": [
+            "You should have attached the wheel to the body before attaching the roof.",
+            "You must put the spare wheel on the body first."
+        ]
+    },
+    {
+        "toy_id": "b04d",
+        "sequence_id": "nusar-2021_action_both_9062-b04d_9062_user_id_2021-02-09_152854",
+        "video": {
+            "start": 161.16666666666666,
+            "end": 292.1333333333333
+        },
+        "question": "Should I have reattached the interior to the chassis after removing it?",
+        "answers": [
+            "Yes, but ideally, the interior should not have been removed in the first place.",
+            "Yes, the interior and the cabin need to be attached to the chassis before the arm connector is attached to the chassis."
+        ]
+    },
+    {
+        "toy_id": "c05a",
+        "sequence_id": "nusar-2021_action_both_9025-c05a_9025_user_id_2021-02-18_102043",
+        "video": {
+            "start": 193.13333333333333,
+            "end": 395.96666666666664
+        },
+        "question": "What am I supposed to do after finishing the bucket and arm?",
+        "answers": [
+            "You should attach the cabin to the interior.",
+            "You need to attach the roof to the rear body.",
+            "You could attach the arm to the arm.",
+            "You can now attach the arm parts together."
+        ]
+    },
+    {
+        "toy_id": "a18",
+        "sequence_id": "nusar-2021_action_both_9054-a18_9054_user_id_2021-02-08_153620",
+        "video": {
+            "start": 217.06666666666666,
+            "end": 400.9
+        },
+        "question": "Is the fire extinguisher the next part I should attach?",
+        "answers": [
+            "Yes, go ahead and attach it to the water tank."
+        ]
+    },
+    {
+        "toy_id": "b02b",
+        "sequence_id": "nusar-2021_action_both_9062-b02b_9062_user_id_2021-02-09_152026",
+        "video": {
+            "start": 224.8,
+            "end": 387.96666666666664
+        },
+        "question": "Where does the arm go next?",
+        "answers": [
+            "It should be attached to the boom before connecting it to another arm.",
+            "You need to connect it to the boom first."
+        ]
+    },
+    {
+        "toy_id": "a08",
+        "sequence_id": "nusar-2021_action_both_9015-a08_9015_user_id_2021-02-02_155549",
+        "video": {
+            "start": 188.63333333333333,
+            "end": 254.8
+        },
+        "question": "Did I skip any steps before attempting to attach the cabin?",
+        "answers": [
+            "No, you\u2019ve done everything in the right order so far."
+        ]
+    },
+    {
+        "toy_id": "c03a",
+        "sequence_id": "nusar-2021_action_both_9015-c03a_9015_user_id_2021-02-02_163503",
+        "video": {
+            "start": 177.9,
+            "end": 191.76666666666668
+        },
+        "question": "What should I have done differently when attaching the arm connector?",
+        "answers": [
+            "You should have corrected the arm\u2019s position first before attaching the connector.",
+            "You should have flipped the excavator arm over so that it is positioned properly."
+        ]
+    },
+    {
+        "toy_id": "c13d",
+        "sequence_id": "nusar-2021_action_both_9061-c13d_9061_user_id_2021-02-09_143830",
+        "video": {
+            "start": 155.66666666666666,
+            "end": 213.83333333333334
+        },
+        "question": "Where exactly should the step be placed?",
+        "answers": [
+            "The steps should be placed on the correct sides where they line up in the proper direction.",
+            "Each step only fits properly on one side. Make sure the steps are on their proper sides.",
+            "The hazard insignia on each step should be closest to the rear of the bulldozer.",
+            "You need to swap the step on the right with the one on the left, and vice versa."
+        ]
+    },
+    {
+        "toy_id": "b01a",
+        "sequence_id": "nusar-2021_action_both_9013-b01a_9013_user_id_2021-02-02_135446",
+        "video": {
+            "start": 150.56666666666666,
+            "end": 360.5
+        },
+        "question": "Did I mess up when detaching the bucket earlier?",
+        "answers": [
+            "Yes, you weren\u2019t supposed to detach it.",
+            "Yes, that step shouldn\u2019t have happened."
+        ]
+    },
+    {
+        "toy_id": "c06c",
+        "sequence_id": "nusar-2021_action_both_9031-c06c_9031_user_id_2021-02-23_164844",
+        "video": {
+            "start": 232.63333333333333,
+            "end": 403.6333333333333
+        },
+        "question": "Should I finish attaching the turntable base first or start with the crane arm?",
+        "answers": [
+            "Finish attaching the turntable base first."
+        ]
+    },
+    {
+        "toy_id": "a09",
+        "sequence_id": "nusar-2021_action_both_9066-a09_9066_user_id_2021-02-17_152039",
+        "video": {
+            "start": 187.8,
+            "end": 253.9
+        },
+        "question": "Am I holding the rear body the right way for attachment?",
+        "answers": [
+            "Yes, that\u2019s the correct orientation."
+        ]
+    },
+    {
+        "toy_id": "a16",
+        "sequence_id": "nusar-2021_action_both_9012-a16_9012_user_id_2021-02-01_162904",
+        "video": {
+            "start": 174.06666666666666,
+            "end": 401.53333333333336
+        },
+        "question": "What step comes after attaching the roof?",
+        "answers": [
+            "Attach the bumper to the cabin."
+        ]
+    },
+    {
+        "toy_id": "a09",
+        "sequence_id": "nusar-2021_action_both_9044-a09_9044_user_id_2021-02-05_155544",
+        "video": {
+            "start": 210.83333333333334,
+            "end": 230.63333333333333
+        },
+        "question": "What part should I work on after the turnplate?",
+        "answers": [
+            "Attach the interior to the chassis.",
+            "Start working on the turntable top.",
+            "Attach the wheels to the chassis.",
+            "Attach the clamp to the arm."
+        ]
+    },
+    {
+        "toy_id": "c09c",
+        "sequence_id": "nusar-2021_action_both_9023-c09c_9023_user_id_2021-02-03_133550",
+        "video": {
+            "start": 206.16666666666666,
+            "end": 284.4
+        },
+        "question": "What should I do next after attaching the light to the roof?",
+        "answers": [
+            "You should attach the wheels to the chassis.",
+            "You could attach the door to the transport cabin.",
+            "You may attach the door to the transport cabin.",
+            "You may attach the bumper to the cabin."
+        ]
+    },
+    {
+        "toy_id": "a08",
+        "sequence_id": "nusar-2021_action_both_9044-a08_9044_user_id_2021-02-19_083738",
+        "video": {
+            "start": 124.96666666666667,
+            "end": 244.3
+        },
+        "question": "Where exactly should I place the turntable base?",
+        "answers": [
+            "The turntable base should be attached to the flat side of the chassis with one screw, leaving room to attach the cabin to the other screw hole in the chassis.",
+            "You need to turn the chassis upside down from how you did it earlier before you can correctly attach the base to it."
+        ]
+    },
+    {
+        "toy_id": "a14",
+        "sequence_id": "nusar-2021_action_both_9021-a14_9021_user_id_2021-02-03_100733",
+        "video": {
+            "start": 327.8666666666667,
+            "end": 357.8666666666667
+        },
+        "question": "Did I mess up by attaching the base before something else?",
+        "answers": [
+            "Yes, you should have attached the cabin to the interior first.",
+            "Yes, the base comes after the cabin is attached to the interior.",
+            "Yes, you should have attached the cabin to the interior before the base onto the chassis."
+        ]
+    },
+    {
+        "toy_id": "a20",
+        "sequence_id": "nusar-2021_action_both_9025-a20_9025_user_id_2021-02-03_150504",
+        "video": {
+            "start": 432.6333333333333,
+            "end": 632.4
+        },
+        "question": "Is there a specific way to secure the figurine, or does it just sit there?",
+        "answers": [
+            "It just sits there\u2014no screws or connectors are needed."
+        ]
+    },
+    {
+        "toy_id": "c04a",
+        "sequence_id": "nusar-2021_action_both_9073-c04a_9073_user_id_2021-02-11_142611",
+        "video": {
+            "start": 184.6,
+            "end": 272.1666666666667
+        },
+        "question": "What should I have done before attaching the cabin?",
+        "answers": [
+            "You need to attach the interior on the end of the chassis that does not have the slot for the connector arm."
+        ]
+    },
+    {
+        "toy_id": "b04d",
+        "sequence_id": "nusar-2021_action_both_9062-b04d_9062_user_id_2021-02-09_152854",
+        "video": {
+            "start": 161.16666666666666,
+            "end": 365.93333333333334
+        },
+        "question": "Did removing the screw from the arm connector mess up the order?",
+        "answers": [
+            "No, as long as you reattached it properly, it\u2019s fine."
+        ]
+    },
+    {
+        "toy_id": "a23",
+        "sequence_id": "nusar-2021_action_both_9045-a23_9045_user_id_2021-02-05_165228",
+        "video": {
+            "start": 207.86666666666667,
+            "end": 284.23333333333335
+        },
+        "question": "Did I position the body correctly this time?",
+        "answers": [
+            "The body needs to be turned around in the other direction before attaching it to the chassis."
+        ]
+    },
+    {
+        "toy_id": "a20",
+        "sequence_id": "nusar-2021_action_both_9025-a20_9025_user_id_2021-02-03_150504",
+        "video": {
+            "start": 432.6333333333333,
+            "end": 575.7
+        },
+        "question": "Can I attach the wheels now, or should I do something else first?",
+        "answers": [
+            "Yes, you can attach the wheels at any time you wish."
+        ]
+    },
+    {
+        "toy_id": "b06c",
+        "sequence_id": "nusar-2021_action_both_9045-b06c_9045_user_id_2021-02-19_121606",
+        "video": {
+            "start": 166.6,
+            "end": 371.26666666666665
+        },
+        "question": "Should I have detached the wheel from the chassis?",
+        "answers": [
+            "It looks like the fourth wheel fell into an open space, so it was correct to detach and then reattach it properly."
+        ]
+    },
+    {
+        "toy_id": "c12e",
+        "sequence_id": "nusar-2021_action_both_9074-c12e_9074_user_id_2021-02-11_155839",
+        "video": {
+            "start": 78.96666666666667,
+            "end": 174.43333333333334
+        },
+        "question": "Was I supposed to attach the grill before the roof?",
+        "answers": [
+            "The order of attaching the grill and the roof doesn't matter. The grill needs to be attached to the cabin, not the interior.",
+            "You wasn't supposed to attach the grill directly to the interior because it has to be put onto the cabin.",
+            "You can attach the grill before the roof, but you need to make sure the grill is on the cabin, not the interior."
+        ]
+    },
+    {
+        "toy_id": "c13f",
+        "sequence_id": "nusar-2021_action_both_9063-c13f_9063_user_id_2021-02-17_100446",
+        "video": {
+            "start": 108.66666666666667,
+            "end": 212.8
+        },
+        "question": "Am I supposed to screw the cabin before attaching the base?",
+        "answers": [
+            "No, you can attach the base, then come back to screw the cabin.",
+            "You can perform them in any order."
+        ]
+    },
+    {
+        "toy_id": "a08",
+        "sequence_id": "nusar-2021_action_both_9015-a08_9015_user_id_2021-02-02_155549",
+        "video": {
+            "start": 188.63333333333333,
+            "end": 351.53333333333336
+        },
+        "question": "Should I position the wheel on the chassis now or is there another step first?",
+        "answers": [
+            "Yes, position the wheel on the chassis now.",
+            "Yes, the next step is to attach the wheels, as you have done all other steps."
+        ]
+    },
+    {
+        "toy_id": "c07a",
+        "sequence_id": "nusar-2021_action_both_9032-c07a_9032_user_id_2021-02-04_115644",
+        "video": {
+            "start": 185.26666666666668,
+            "end": 466.23333333333335
+        },
+        "question": "Did I position the bucket correctly before screwing it in?",
+        "answers": [
+            "Yes, it's in the right position."
+        ]
+    },
+    {
+        "toy_id": "c04a",
+        "sequence_id": "nusar-2021_action_both_9015-c04a_9015_user_id_2021-02-02_164257",
+        "video": {
+            "start": 171.46666666666667,
+            "end": 253.8
+        },
+        "question": "Did I put the interior in the wrong spot?",
+        "answers": [
+            "Yes, it should be placed at the opposite end of the chassis.",
+            "You should attach the interior on the back side of the chassis."
+        ]
+    },
+    {
+        "toy_id": "b06c",
+        "sequence_id": "nusar-2021_action_both_9073-b06c_9073_user_id_2021-02-11_135342",
+        "video": {
+            "start": 177.73333333333332,
+            "end": 390.26666666666665
+        },
+        "question": "Is the order wrong because I detached the turntable base?",
+        "answers": [
+            "No, the issue wasn\u2019t the order. The problem is that the bucket should not be attached to the turnable top as it needs to be attached to the boom."
+        ]
+    },
+    {
+        "toy_id": "c06a",
+        "sequence_id": "nusar-2021_action_both_9076-c06a_9076_user_id_2021-02-12_112908",
+        "video": {
+            "start": 332.76666666666665,
+            "end": 406.1
+        },
+        "question": "Did I mess up with the light earlier?",
+        "answers": [
+            "Yes, but you fixed it by attaching the light back to the cabin.",
+            "You mistakenly detached the light, but as you attached it back, you are still on the right track."
+        ]
+    },
+    {
+        "toy_id": "a24",
+        "sequence_id": "nusar-2021_action_both_9043-a24_9043_user_id_2021-02-05_133010",
+        "video": {
+            "start": 119.63333333333334,
+            "end": 215.63333333333333
+        },
+        "question": "Did I attach the body parts in the wrong order?",
+        "answers": [
+            "Yes, both front and rear body parts should be attached after you attached the rocker panel to the chassis."
+        ]
+    },
+    {
+        "toy_id": "c02a",
+        "sequence_id": "nusar-2021_action_both_9033-c02a_9033_user_id_2021-02-04_140532",
+        "video": {
+            "start": 241.9,
+            "end": 358.0
+        },
+        "question": "Did I position the interior correctly before screwing it in?",
+        "answers": [
+            "Yes, you positioned it correctly.",
+            "Yes, it is in the correct position.",
+            "The interior and cabin need to be attached before the body. Order is important even if the parts are in the right position.",
+            "The interior's position was correct, but you shouldn\u2019t screw the body in yet, because you weren\u2019t supposed to attach the body to the chassis before attaching the cabin to the interior."
+        ]
+    },
+    {
+        "toy_id": "c12e",
+        "sequence_id": "nusar-2021_action_both_9053-c12e_9053_user_id_2021-02-08_142744",
+        "video": {
+            "start": 202.2,
+            "end": 334.6333333333333
+        },
+        "question": "Is there a reason I keep removing the interior after attaching it?",
+        "answers": [
+            "Yes, the interior and cabin must be attached before the base.",
+            "Yes, you should not have attached the base to the chassis, instead you must attach the cabin to the interior first after attching the interior to the chassis."
+        ]
+    },
+    {
+        "toy_id": "c10b",
+        "sequence_id": "nusar-2021_action_both_9056-c10b_9056_user_id_2021-02-09_105117",
+        "video": {
+            "start": 286.3666666666667,
+            "end": 1307.8666666666666
+        },
+        "question": "Why did I need to reposition the dump bed so many times?",
+        "answers": [
+            "It was because you tried to attach the dump bed in the wrong order and to the wrong position: the interior and cabin need to be attached before the base, and the dump bed should be attached to the base."
+        ]
+    },
+    {
+        "toy_id": "c10b",
+        "sequence_id": "nusar-2021_action_both_9031-c10b_9031_user_id_2021-02-04_101552",
+        "video": {
+            "start": 325.56666666666666,
+            "end": 350.96666666666664
+        },
+        "question": "Did I miss a step before securing the cabin with screws?",
+        "answers": [
+            "You need to secure the interior, not the cabin.",
+            "You should make sure the sound module has been attached to the chassis at this point."
+        ]
+    },
+    {
+        "toy_id": "c04a",
+        "sequence_id": "nusar-2021_action_both_9015-c04a_9015_user_id_2021-02-02_164257",
+        "video": {
+            "start": 171.46666666666667,
+            "end": 174.46666666666667
+        },
+        "question": "Did I position the arm correctly before moving on?",
+        "answers": [
+            "Yes, it looks good."
+        ]
+    },
+    {
+        "toy_id": "a29",
+        "sequence_id": "nusar-2021_action_both_9074-a29_9074_user_id_2021-02-11_154856",
+        "video": {
+            "start": 109.4,
+            "end": 127.86666666666666
+        },
+        "question": "Is it okay to attach the body to the interior now?",
+        "answers": [
+            "Yes, that\u2019s the correct next step."
+        ]
+    },
+    {
+        "toy_id": "c09c",
+        "sequence_id": "nusar-2021_action_both_9023-c09c_9023_user_id_2021-02-03_133550",
+        "video": {
+            "start": 206.16666666666666,
+            "end": 237.13333333333333
+        },
+        "question": "Why did I have to remove the transport cabin earlier?",
+        "answers": [
+            "Because it was attached in the wrong order and needed to be fixed: the correct order is to attach the interior and cabin first, then the transport cabin."
+        ]
+    },
+    {
+        "toy_id": "b06a",
+        "sequence_id": "nusar-2021_action_both_9016-b06a_9016_user_id_2021-02-17_141229",
+        "video": {
+            "start": 71.16666666666667,
+            "end": 97.56666666666666
+        },
+        "question": "Is there anything else I need to attach or adjust now?",
+        "answers": [
+            "No, you\u2019re ready for the next part.",
+            "Yes, attach the tilter to the interior.",
+            "Yes, attach the wheel to the chassis.",
+            "Nothing to adjust, but you can attach the tilter or the wheels now."
+        ]
+    },
+    {
+        "toy_id": "c02c",
+        "sequence_id": "nusar-2021_action_both_9035-c02c_9035_user_id_2021-02-18_153533",
+        "video": {
+            "start": 147.66666666666666,
+            "end": 199.8
+        },
+        "question": "Did I place the interior in the wrong spot?",
+        "answers": [
+            "Yes, you should place it in the back side of the chassis."
+        ]
+    },
+    {
+        "toy_id": "b08a",
+        "sequence_id": "nusar-2021_action_both_9056-b08a_9056_user_id_2021-02-09_114053",
+        "video": {
+            "start": 226.23333333333332,
+            "end": 232.26666666666668
+        },
+        "question": "Am I positioning the rear body correctly for the screws to go in?",
+        "answers": [
+            "Yes, you're positioning it correctly."
+        ]
+    },
+    {
+        "toy_id": "b01a",
+        "sequence_id": "nusar-2021_action_both_9044-b01a_9044_user_id_2021-02-19_085343",
+        "video": {
+            "start": 203.83333333333334,
+            "end": 604.0666666666667
+        },
+        "question": "Did I mess up the order again by attaching the arm connector now?",
+        "answers": [
+            "Yes, the nut needs to be attached to the arm before the arm connector is attached to the interior.",
+            "Yes, you need to attach the arm to the nut first."
+        ]
+    },
+    {
+        "toy_id": "b06d",
+        "sequence_id": "nusar-2021_action_both_9012-b06d_9012_user_id_2021-02-01_163713",
+        "video": {
+            "start": 128.43333333333334,
+            "end": 131.23333333333332
+        },
+        "question": "What part connects to the interior next?",
+        "answers": [
+            "The tilter connects to the interior next.",
+            "The cabin connects to the interior next."
+        ]
+    },
+    {
+        "toy_id": "b05a",
+        "sequence_id": "nusar-2021_action_both_9043-b05a_9043_user_id_2021-02-05_134455",
+        "video": {
+            "start": 311.43333333333334,
+            "end": 370.23333333333335
+        },
+        "question": "Did I position the interior correctly, or should it be adjusted?",
+        "answers": [
+            "No, it's backward\u2014rotate it 180 degrees."
+        ]
+    },
+    {
+        "toy_id": "b04d",
+        "sequence_id": "nusar-2021_action_both_9081-b04d_9081_user_id_2021-02-12_160020",
+        "video": {
+            "start": 72.86666666666666,
+            "end": 121.13333333333334
+        },
+        "question": "Am I supposed to use a screw at this point?",
+        "answers": [
+            "Yes, you use a screw to attach arm connector to chassis."
+        ]
+    },
+    {
+        "toy_id": "c07b",
+        "sequence_id": "nusar-2021_action_both_9035-c07b_9035_user_id_2021-02-18_154148",
+        "video": {
+            "start": 184.7,
+            "end": 221.56666666666666
+        },
+        "question": "Is the interior positioned in the correct spot?",
+        "answers": [
+            "No, you should slightly adjust it forward so that the screw holes align."
+        ]
+    },
+    {
+        "toy_id": "c06d",
+        "sequence_id": "nusar-2021_action_both_9012-c06d_9012_user_id_2021-02-18_121034",
+        "video": {
+            "start": 121.66666666666667,
+            "end": 234.53333333333333
+        },
+        "question": "Did I position the screw correctly on the chassis?",
+        "answers": [
+            "Yes, that's the correct position.",
+            "Yes, screw in the base to the chassis from the underside of the chassis."
+        ]
+    },
+    {
+        "toy_id": "c12e",
+        "sequence_id": "nusar-2021_action_both_9033-c12e_9033_user_id_2021-02-18_150129",
+        "video": {
+            "start": 135.0,
+            "end": 207.43333333333334
+        },
+        "question": "What step should I redo to fix the mistake with the interior?",
+        "answers": [
+            "You need to detach the base first, and then attach the interior and the cabin to the chassis."
+        ]
+    },
+    {
+        "toy_id": "b08d",
+        "sequence_id": "nusar-2021_action_both_9025-b08d_9025_user_id_2021-02-03_153246",
+        "video": {
+            "start": 342.0,
+            "end": 556.1666666666666
+        },
+        "question": "Is there anything I missed while attaching the wheels?",
+        "answers": [
+            "No, you\u2019ve attached all four wheels correctly."
+        ]
+    },
+    {
+        "toy_id": "a19",
+        "sequence_id": "nusar-2021_action_both_9083-a19_9083_user_id_2021-02-16_111909",
+        "video": {
+            "start": 166.9,
+            "end": 327.73333333333335
+        },
+        "question": "Did I miss any steps with the cabin?",
+        "answers": [
+            "No, you completed all the cabin steps."
+        ]
+    },
+    {
+        "toy_id": "c12e",
+        "sequence_id": "nusar-2021_action_both_9033-c12e_9033_user_id_2021-02-18_150129",
+        "video": {
+            "start": 135.0,
+            "end": 337.1
+        },
+        "question": "Why did I need to inspect the cabin so many times?",
+        "answers": [
+            "You attached the base in the wrong order, since the interior and the cabin need to be attached before the base."
+        ]
+    },
+    {
+        "toy_id": "c08c",
+        "sequence_id": "nusar-2021_action_both_9035-c08c_9035_user_id_2021-02-18_163203",
+        "video": {
+            "start": 159.23333333333332,
+            "end": 290.53333333333336
+        },
+        "question": "Am I positioning the rear door correctly, or do I need to adjust it?",
+        "answers": [
+            "You attached the rear doors correctly."
+        ]
+    },
+    {
+        "toy_id": "c11a",
+        "sequence_id": "nusar-2021_action_both_9024-c11a_9024_user_id_2021-02-03_144917",
+        "video": {
+            "start": 106.63333333333334,
+            "end": 228.76666666666668
+        },
+        "question": "Am I supposed to screw the bumper now or later?",
+        "answers": [
+            "You should attach the bumper after you attach the nut to the body."
+        ]
+    },
+    {
+        "toy_id": "c07a",
+        "sequence_id": "nusar-2021_action_both_9032-c07a_9032_user_id_2021-02-04_115644",
+        "video": {
+            "start": 185.26666666666668,
+            "end": 398.43333333333334
+        },
+        "question": "Did I need to remove the arm from the boom earlier?",
+        "answers": [
+            "Yes, you needed to detach the arm from the boom, because the arm needs to be positioned so that the angle points down.",
+            "Yes, it was required to correct the angle of the arm so that it pointed down."
+        ]
+    },
+    {
+        "toy_id": "b04d",
+        "sequence_id": "nusar-2021_action_both_9062-b04d_9062_user_id_2021-02-09_152854",
+        "video": {
+            "start": 161.16666666666666,
+            "end": 285.73333333333335
+        },
+        "question": "Where exactly should the cabin align with the interior?",
+        "answers": [
+            "It's not the location that is at fault, it's that the cabin needs to be attached to the interior before the body is attached to the chassis."
+        ]
+    },
+    {
+        "toy_id": "c02a",
+        "sequence_id": "nusar-2021_action_both_9061-c02a_9061_user_id_2021-02-09_141537",
+        "video": {
+            "start": 270.03333333333336,
+            "end": 390.8333333333333
+        },
+        "question": "Did I mess up the order when attaching the bumper earlier?",
+        "answers": [
+            "Yes, the cabin needs to be attached to the chassis before the body and bumper are attached.",
+            "The body should have been installed after the cabin was attached, and then the bumper should have been installed.",
+            "Yes, the order of attaching it and also the position was incorrect: attach the bumper on the back side of the body after the cabin and the body are attached."
+        ]
+    },
+    {
+        "toy_id": "a19",
+        "sequence_id": "nusar-2021_action_both_9056-a19_9056_user_id_2021-02-22_141312",
+        "video": {
+            "start": 134.73333333333332,
+            "end": 281.43333333333334
+        },
+        "question": "Did I position the ladder basket correctly before picking up the screwdriver?",
+        "answers": [
+            "You should rotate it 180 degrees so that the basket faces up."
+        ]
+    },
+    {
+        "toy_id": "b02a",
+        "sequence_id": "nusar-2021_action_both_9036-b02a_9036_user_id_2021-02-17_162715",
+        "video": {
+            "start": 108.06666666666666,
+            "end": 152.63333333333333
+        },
+        "question": "Did I finish attaching the second wheel correctly?",
+        "answers": [
+            "Yes, it looks good and you can continue to attach the other wheels.",
+            "Yes, you attached the second wheel correctly."
+        ]
+    },
+    {
+        "toy_id": "c03d",
+        "sequence_id": "nusar-2021_action_both_9021-c03d_9021_user_id_2021-02-23_100036",
+        "video": {
+            "start": 104.43333333333334,
+            "end": 134.8
+        },
+        "question": "Am I supposed to use the screwdriver now or later?",
+        "answers": [
+            "Use it now to secure the screws."
+        ]
+    },
+    {
+        "toy_id": "c09b",
+        "sequence_id": "nusar-2021_action_both_9084-c09b_9084_user_id_2021-02-25_140624",
+        "video": {
+            "start": 126.5,
+            "end": 215.86666666666667
+        },
+        "question": "Is this the right way to attach the light?",
+        "answers": [
+            "Yes, it snaps into place."
+        ]
+    },
+    {
+        "toy_id": "b05d",
+        "sequence_id": "nusar-2021_action_both_9045-b05d_9045_user_id_2021-02-05_171423",
+        "video": {
+            "start": 284.2,
+            "end": 561.6
+        },
+        "question": "Did I attach the lid to the dump bed too early?",
+        "answers": [
+            "No, the order is fine as it is.",
+            "You can attach it at any time."
+        ]
+    },
+    {
+        "toy_id": "a16",
+        "sequence_id": "nusar-2021_action_both_9066-a16_9066_user_id_2021-02-17_152811",
+        "video": {
+            "start": 197.9,
+            "end": 294.03333333333336
+        },
+        "question": "Where exactly should I place the bumper before screwing it in?",
+        "answers": [
+            "Align it with the front of the cabin."
+        ]
+    },
+    {
+        "toy_id": "c06b",
+        "sequence_id": "nusar-2021_action_both_9025-c06b_9025_user_id_2021-02-03_160657",
+        "video": {
+            "start": 328.26666666666665,
+            "end": 499.1666666666667
+        },
+        "question": "Did I miss any step before positioning the cabin?",
+        "answers": [
+            "No, you\u2019ve done everything in the right order so far."
+        ]
+    },
+    {
+        "toy_id": "b06c",
+        "sequence_id": "nusar-2021_action_both_9022-b06c_9022_user_id_2021-02-23_112257",
+        "video": {
+            "start": 121.9,
+            "end": 161.13333333333333
+        },
+        "question": "Where does the nut go on the boom?",
+        "answers": [
+            "It goes on the other side of the screw.",
+            "You need to align it with the hole on the boom."
+        ]
+    },
+    {
+        "toy_id": "a07",
+        "sequence_id": "nusar-2021_action_both_9055-a07_9055_user_id_2021-02-24_102820",
+        "video": {
+            "start": 118.8,
+            "end": 204.03333333333333
+        },
+        "question": "Why did I need to detach the rear body just now?",
+        "answers": [
+            "Because you needed to turn the rear body around the other direction and re-attach it."
+        ]
+    },
+    {
+        "toy_id": "c04d",
+        "sequence_id": "nusar-2021_action_both_9072-c04d_9072_user_id_2021-02-11_113148",
+        "video": {
+            "start": 142.53333333333333,
+            "end": 210.1
+        },
+        "question": "Where exactly should I attach the arm connector?",
+        "answers": [
+            "It goes on the front of the chassis, but first you need to connect the arms to it."
+        ]
+    },
+    {
+        "toy_id": "b04d",
+        "sequence_id": "nusar-2021_action_both_9033-b04d_9033_user_id_2021-02-18_141950",
+        "video": {
+            "start": 130.33333333333334,
+            "end": 246.96666666666667
+        },
+        "question": "Is it okay that I detached the arm connector before finishing the step?",
+        "answers": [
+            "Yes, because you need to first attach the push frame to the arm connector, and then attach the arm connector to the chassis."
+        ]
+    },
+    {
+        "toy_id": "a09",
+        "sequence_id": "nusar-2021_action_both_9066-a09_9066_user_id_2021-02-17_152039",
+        "video": {
+            "start": 187.8,
+            "end": 295.6666666666667
+        },
+        "question": "Did I forget to attach something before positioning the boom?",
+        "answers": [
+            "No, you didn't forget any steps so far."
+        ]
+    },
+    {
+        "toy_id": "c03c",
+        "sequence_id": "nusar-2021_action_both_9043-c03c_9043_user_id_2021-02-05_141851",
+        "video": {
+            "start": 114.96666666666667,
+            "end": 121.53333333333333
+        },
+        "question": "Did I miss any steps before attaching the mixer stand?",
+        "answers": [
+            "No, you\u2019ve done everything in the right order so far.",
+            "No, that was a good first step."
+        ]
+    },
+    {
+        "toy_id": "a23",
+        "sequence_id": "nusar-2021_action_both_9045-a23_9045_user_id_2021-02-05_165228",
+        "video": {
+            "start": 207.86666666666667,
+            "end": 339.93333333333334
+        },
+        "question": "What should I do next after attaching the body?",
+        "answers": [
+            "Attach the enginer cover to body.",
+            "Attach the roof to the body.",
+            "Attach the rocker panel to the body.",
+            "Attach the bumper to the body."
+        ]
+    },
+    {
+        "toy_id": "c13d",
+        "sequence_id": "nusar-2021_action_both_9061-c13d_9061_user_id_2021-02-09_143830",
+        "video": {
+            "start": 155.66666666666666,
+            "end": 224.53333333333333
+        },
+        "question": "Am I holding the step the right way now?",
+        "answers": [
+            "Yes, the orientation you're holding the step in right now is correct."
+        ]
+    },
+    {
+        "toy_id": "c13e",
+        "sequence_id": "nusar-2021_action_both_9045-c13e_9045_user_id_2021-02-19_134158",
+        "video": {
+            "start": 186.8,
+            "end": 212.7
+        },
+        "question": "Did I attach the cabin and base in the wrong order earlier?",
+        "answers": [
+            "No, the order was fine, but you need to attach the step to the chassis first before attaching the cabin and the base.",
+            "Yes, the step should be attached to the chassis before attaching the cabin and the base."
+        ]
+    },
+    {
+        "toy_id": "a08",
+        "sequence_id": "nusar-2021_action_both_9066-a08_9066_user_id_2021-02-17_151541",
+        "video": {
+            "start": 100.0,
+            "end": 177.6
+        },
+        "question": "Did I need to screw in the bumper when attaching it to the grill?",
+        "answers": [
+            "Yes, you need to make sure to also use the nut and the screw when attaching the bumper to the grill.",
+            "Yes, you needed to screw in the bumper when attaching it to the grill."
+        ]
+    },
+    {
+        "toy_id": "c10a",
+        "sequence_id": "nusar-2021_action_both_9021-c10a_9021_user_id_2021-02-23_100458",
+        "video": {
+            "start": 116.03333333333333,
+            "end": 180.5
+        },
+        "question": "Am I positioning the cabin correctly before screwing it?",
+        "answers": [
+            "Yes, the positioning looks fine so far."
+        ]
+    },
+    {
+        "toy_id": "b03a",
+        "sequence_id": "nusar-2021_action_both_9016-b03a_9016_user_id_2021-02-17_140509",
+        "video": {
+            "start": 148.5,
+            "end": 230.4
+        },
+        "question": "Do I need to find a screw for the rear base, or is it already ready to attach?",
+        "answers": [
+            "Yes, grab a screw and position it on the rear base."
+        ]
+    },
+    {
+        "toy_id": "c02c",
+        "sequence_id": "nusar-2021_action_both_9035-c02c_9035_user_id_2021-02-18_153533",
+        "video": {
+            "start": 147.66666666666666,
+            "end": 257.3666666666667
+        },
+        "question": "Is it okay to attach the arm connector now?",
+        "answers": [
+            "No, first attach the push frame to the arm connector before attaching the arm connector to the chassis."
+        ]
+    },
+    {
+        "toy_id": "c07a",
+        "sequence_id": "nusar-2021_action_both_9032-c07a_9032_user_id_2021-02-04_115644",
+        "video": {
+            "start": 185.26666666666668,
+            "end": 540.1666666666666
+        },
+        "question": "Should I attach the wheels now, or focus on the body first?",
+        "answers": [
+            "It's fine to do either.",
+            "Either way is fine."
+        ]
+    },
+    {
+        "toy_id": "c13c",
+        "sequence_id": "nusar-2021_action_both_9026-c13c_9026_user_id_2021-02-03_172406",
+        "video": {
+            "start": 218.8,
+            "end": 252.43333333333334
+        },
+        "question": "What should I have done differently when attaching the body to the chassis?",
+        "answers": [
+            "Nothing, everything is going great!",
+            "There was nothing you needed to do differently."
+        ]
+    },
+    {
+        "toy_id": "b05a",
+        "sequence_id": "nusar-2021_action_both_9043-b05a_9043_user_id_2021-02-05_134455",
+        "video": {
+            "start": 311.43333333333334,
+            "end": 695.3333333333334
+        },
+        "question": "Why did I unscrew the rear bumper earlier?",
+        "answers": [
+            "You needed to remove the rear bumper so that you could attach the cabin first before the bumper."
+        ]
+    },
+    {
+        "toy_id": "c04d",
+        "sequence_id": "nusar-2021_action_both_9031-c04d_9031_user_id_2021-02-23_163320",
+        "video": {
+            "start": 147.4,
+            "end": 233.5
+        },
+        "question": "Did I position the roof correctly, or should I adjust it?",
+        "answers": [
+            "It looks fine, no need to adjust."
+        ]
+    },
+    {
+        "toy_id": "c09c",
+        "sequence_id": "nusar-2021_action_both_9065-c09c_9095_user_id_2021-02-17_124439",
+        "video": {
+            "start": 198.23333333333332,
+            "end": 278.7
+        },
+        "question": "Should I have detached the cabin from the interior?",
+        "answers": [
+            "No, detaching the cabin was a mistake; you should have left it attached.",
+            "No, you just forgot to screw the interior to the chassis.",
+            "No, and it got detached because you forgot to secure the interior to the chassis."
+        ]
+    },
+    {
+        "toy_id": "c08c",
+        "sequence_id": "nusar-2021_action_both_9083-c08c_9083_user_id_2021-02-16_110837",
+        "video": {
+            "start": 198.23333333333332,
+            "end": 389.9
+        },
+        "question": "Should I have tried to screw in the cabin during the base attachment step?",
+        "answers": [
+            "Yes, it was ok to screw in the cabin and the base at the same time.",
+            "Securing the cabin does not have to be during attaching the base, but you can do it."
+        ]
+    },
+    {
+        "toy_id": "c09b",
+        "sequence_id": "nusar-2021_action_both_9086-c09b_9086_user_id_2021-02-16_155556",
+        "video": {
+            "start": 179.86666666666667,
+            "end": 277.26666666666665
+        },
+        "question": "Was my positioning of the front bumper correct?",
+        "answers": [
+            "The position for attaching the bumper was correct, but the bumper should have been attached after the cabin.",
+            "Yes, the position was correct, but the timing was wrong. You need to attach the front bumper after you attach the cabin."
+        ]
+    },
+    {
+        "toy_id": "c03d",
+        "sequence_id": "nusar-2021_action_both_9021-c03d_9021_user_id_2021-02-23_100036",
+        "video": {
+            "start": 104.43333333333334,
+            "end": 159.46666666666667
+        },
+        "question": "What should I do after positioning the front body?",
+        "answers": [
+            "Attach the wheel to the chassis.",
+            "Attach the dump bed to the chassis."
+        ]
+    },
+    {
+        "toy_id": "a09",
+        "sequence_id": "nusar-2021_action_both_9015-a09_9015_user_id_2021-02-02_160807",
+        "video": {
+            "start": 236.26666666666668,
+            "end": 425.5
+        },
+        "question": "Should I have attached something before the arm?",
+        "answers": [
+            "Yes, you should have attached the turnplate and turntable top to the body first.",
+            "Yes, the boom should have been attached to the turntable top before the arm."
+        ]
+    },
+    {
+        "toy_id": "b01b",
+        "sequence_id": "nusar-2021_action_both_9031-b01b_9031_user_id_2021-02-23_164014",
+        "video": {
+            "start": 158.53333333333333,
+            "end": 237.93333333333334
+        },
+        "question": "What should I focus on next: the arm, the cabin, or something else?",
+        "answers": [
+            "Focus on attaching the arm to the push frame next.",
+            "Work on attaching the cabin to the interior first.",
+            "Start attaching the wheel to the chassis.",
+            "Attach the roller to the roller.",
+            "Attach the arm connector to the interior.",
+            "Attach the interior to the chassis.",
+            "Attach the roof to the cabin.",
+            "Attach the wheels.",
+            "Attach the cabin to the interior. Attach the arm to the push frame."
+        ]
+    },
+    {
+        "toy_id": "c02c",
+        "sequence_id": "nusar-2021_action_both_9035-c02c_9035_user_id_2021-02-18_153533",
+        "video": {
+            "start": 147.66666666666666,
+            "end": 285.1
+        },
+        "question": "Is the bumper step incomplete, or should I start attaching the roller?",
+        "answers": [
+            "The bumper step is incomplete. Keep working on it.",
+            "You haven\u2019t finished the bumper yet.",
+            "The bumper step will be complete when you finish screwing it in.",
+            "The bumper is not attached yet, but you can attach the roller first if you want."
+        ]
+    },
+    {
+        "toy_id": "b06b",
+        "sequence_id": "nusar-2021_action_both_9071-b06b_9071_user_id_2021-02-11_100739",
+        "video": {
+            "start": 175.16666666666666,
+            "end": 199.93333333333334
+        },
+        "question": "Did I miss any step before picking up the second wheel?",
+        "answers": [
+            "No, you followed the correct order so far."
+        ]
+    },
+    {
+        "toy_id": "c12e",
+        "sequence_id": "nusar-2021_action_both_9053-c12e_9053_user_id_2021-02-08_142744",
+        "video": {
+            "start": 202.2,
+            "end": 290.5
+        },
+        "question": "Is there a specific order I need to follow for these parts?",
+        "answers": [
+            "Yes, attach the interior and cabin in this order, then attach the base."
+        ]
+    },
+    {
+        "toy_id": "a08",
+        "sequence_id": "nusar-2021_action_both_9044-a08_9044_user_id_2021-02-19_083738",
+        "video": {
+            "start": 124.96666666666667,
+            "end": 193.03333333333333
+        },
+        "question": "Did I attach the crane arm/base to the wrong position?",
+        "answers": [
+            "Yes, you attached the crane arm/base to the opposite side of the chassis. You should flip it and also adjust the position to the end of the chassis."
+        ]
+    },
+    {
+        "toy_id": "a24",
+        "sequence_id": "nusar-2021_action_both_9016-a24_9016_user_id_2021-02-17_135905",
+        "video": {
+            "start": 85.06666666666666,
+            "end": 143.0
+        },
+        "question": "What should I do next to fix the order mistake?",
+        "answers": [
+            "Remove the body and attach the rocker panel to chassis first."
+        ]
+    },
+    {
+        "toy_id": "c02c",
+        "sequence_id": "nusar-2021_action_both_9035-c02c_9035_user_id_2021-02-04_170431",
+        "video": {
+            "start": 202.63333333333333,
+            "end": 375.76666666666665
+        },
+        "question": "Does the screw go here on the push frame?",
+        "answers": [
+            "Yes, that's the correct location.",
+            "Yes, screws go on both sides of the push frame to attach it to the roller arm."
+        ]
+    },
+    {
+        "toy_id": "b04a",
+        "sequence_id": "nusar-2021_action_both_9032-b04a_9032_user_id_2021-02-04_113248",
+        "video": {
+            "start": 192.73333333333332,
+            "end": 294.96666666666664
+        },
+        "question": "Did I need to remove the interior after attaching it to the chassis?",
+        "answers": [
+            "No, once it was attached, it should have stayed in place.",
+            "No, you did not need to remove it."
+        ]
+    },
+    {
+        "toy_id": "b04a",
+        "sequence_id": "nusar-2021_action_both_9061-b04a_9061_user_id_2021-02-09_135722",
+        "video": {
+            "start": 201.1,
+            "end": 419.9
+        },
+        "question": "What is the correct order for attaching the arm connector to the chassis?",
+        "answers": [
+            "Attach the arm connector to chassis after attaching the boom to the arm connector.",
+            "Once the boom is attached to the arm and the interior and cabin are set on the chassis, the arm connector can be attached to the chassis."
+        ]
+    },
+    {
+        "toy_id": "a14",
+        "sequence_id": "nusar-2021_action_both_9046-a14_9046_user_id_2021-02-22_104013",
+        "video": {
+            "start": 128.26666666666668,
+            "end": 183.76666666666668
+        },
+        "question": "Am I supposed to use a screwdriver for this step?",
+        "answers": [
+            "No, this step doesn\u2019t require screws.",
+            "No, you don't need to use screws to attach the cabin to the interior."
+        ]
+    },
+    {
+        "toy_id": "b04c",
+        "sequence_id": "nusar-2021_action_both_9055-b04c_9055_user_id_2021-02-24_103545",
+        "video": {
+            "start": 115.63333333333334,
+            "end": 148.96666666666667
+        },
+        "question": "Was I supposed to use a screw earlier when attaching the arm to the boom?",
+        "answers": [
+            "No, that step was a no-screw step, so you didn\u2019t need screws.",
+            "Once both arm parts are attached to the boom, the screw is used to attach arm to arm and this secures the boom too."
+        ]
+    },
+    {
+        "toy_id": "a08",
+        "sequence_id": "nusar-2021_action_both_9044-a08_9044_user_id_2021-02-19_083738",
+        "video": {
+            "start": 124.96666666666667,
+            "end": 266.5
+        },
+        "question": "Did I position the turntable base correctly?",
+        "answers": [
+            "No, you were trying to attach it to the oppposite side of the chassis. Flip the chassis and attach the turntable base on the end of the chassis."
+        ]
+    },
+    {
+        "toy_id": "b05c",
+        "sequence_id": "nusar-2021_action_both_9085-b05c_9085_user_id_2021-02-22_173439",
+        "video": {
+            "start": 126.9,
+            "end": 229.86666666666667
+        },
+        "question": "Should I have removed the cabin from this spot?",
+        "answers": [
+            "Yes, because you should attach the cabin to the interior before the mixer stand."
+        ]
+    },
+    {
+        "toy_id": "c10b",
+        "sequence_id": "nusar-2021_action_both_9056-c10b_9056_user_id_2021-02-09_105117",
+        "video": {
+            "start": 286.3666666666667,
+            "end": 1480.4666666666667
+        },
+        "question": "Why does the rear base keep coming off when I attach the dump bed?",
+        "answers": [
+            "The interior and cabin need to be connected to the chassis before the base is screwed into the chassis, that's why the base was always falling off."
+        ]
+    },
+    {
+        "toy_id": "c08b",
+        "sequence_id": "nusar-2021_action_both_9034-c08b_9034_user_id_2021-02-23_175357",
+        "video": {
+            "start": 124.23333333333333,
+            "end": 261.0
+        },
+        "question": "Am I supposed to attach the sound module next, or is it the rear roof?",
+        "answers": [
+            "You can attach the rear roof or the wheels next."
+        ]
+    },
+    {
+        "toy_id": "c04a",
+        "sequence_id": "nusar-2021_action_both_9073-c04a_9073_user_id_2021-02-11_142611",
+        "video": {
+            "start": 184.6,
+            "end": 551.5
+        },
+        "question": "Is the interior in the right position on the chassis?",
+        "answers": [
+            "No, you need to remove the arm connector and reposition the interior and cabin to the appropriate location with the arm connector out of the way.",
+            "No, attach the interior in the opposite orientation, and place it near the center of the chassis."
+        ]
+    },
+    {
+        "toy_id": "c10a",
+        "sequence_id": "nusar-2021_action_both_9085-c10a_9085_user_id_2021-02-22_174720",
+        "video": {
+            "start": 153.23333333333332,
+            "end": 159.56666666666666
+        },
+        "question": "Am I supposed to continue with the container or start attaching the roof?",
+        "answers": [
+            "You need to attach the rear roof before you connect the two container parts together.",
+            "Before attaching the other half of the container, you should attach the connector and the rear roof to the container part."
+        ]
+    },
+    {
+        "toy_id": "c12e",
+        "sequence_id": "nusar-2021_action_both_9074-c12e_9074_user_id_2021-02-11_155839",
+        "video": {
+            "start": 78.96666666666667,
+            "end": 229.33333333333334
+        },
+        "question": "Did I mess up by putting the cabin down?",
+        "answers": [
+            "No, you are still on the right track: put the cabin back and attach the base after that."
+        ]
+    },
+    {
+        "toy_id": "b05b",
+        "sequence_id": "nusar-2021_action_both_9066-b05b_9066_user_id_2021-02-17_154153",
+        "video": {
+            "start": 240.63333333333333,
+            "end": 367.93333333333334
+        },
+        "question": "Did I mess up where the front bumper is placed?",
+        "answers": [
+            "Yes, the front bumper should attached to the cabin after the cabin is attached to the interior.",
+            "No, the placement is fine, but you need to attach the cabin first."
+        ]
+    },
+    {
+        "toy_id": "b04a",
+        "sequence_id": "nusar-2021_action_both_9061-b04a_9061_user_id_2021-02-09_135722",
+        "video": {
+            "start": 201.1,
+            "end": 535.2666666666667
+        },
+        "question": "Should I attach the arm to the boom now or do something else first?",
+        "answers": [
+            "Yes, attach the arm to the boom first.",
+            "You could either attach the arm to the boom or attach the bucket to the arm.",
+            "You can attach the arm to the boom or attach the bucket to the arm.",
+            "You can attach either the boom or the bucket to the arm, but make sure to attach the boom to the arm connector before attaching the arm connector to the chassis."
+        ]
+    },
+    {
+        "toy_id": "c06f",
+        "sequence_id": "nusar-2021_action_both_9032-c06f_9032_user_id_2021-02-04_114322",
+        "video": {
+            "start": 243.66666666666666,
+            "end": 324.6
+        },
+        "question": "Was it correct to detach the sound module from the cabin?",
+        "answers": [
+            "No, it was a mistake; the sound module should stay attached to the cabin."
+        ]
+    },
+    {
+        "toy_id": "c10c",
+        "sequence_id": "nusar-2021_action_both_9015-c10c_9015_user_id_2021-02-02_165955",
+        "video": {
+            "start": 177.03333333333333,
+            "end": 217.93333333333334
+        },
+        "question": "Am I holding the water tank the right way to attach it?",
+        "answers": [
+            "The problem is that you need to attach one half of the water tank to the base first, then attach the other half of the water tank.",
+            "You need to attach the rear base first before attaching the water tank."
+        ]
+    },
+    {
+        "toy_id": "b06a",
+        "sequence_id": "nusar-2021_action_both_9066-b06a_9066_user_id_2021-02-17_155256",
+        "video": {
+            "start": 121.46666666666667,
+            "end": 217.86666666666667
+        },
+        "question": "What step comes next after positioning the tilter?",
+        "answers": [
+            "Secure the tilter with the screw and attach the dump bed."
+        ]
+    },
+    {
+        "toy_id": "c13e",
+        "sequence_id": "nusar-2021_action_both_9045-c13e_9045_user_id_2021-02-19_134158",
+        "video": {
+            "start": 186.8,
+            "end": 187.7
+        },
+        "question": "What should I have done before attaching the cabin?",
+        "answers": [
+            "You should have attached the steps to the chassis first.",
+            "You need to attach the steps before attaching the cabin."
+        ]
+    },
+    {
+        "toy_id": "b05d",
+        "sequence_id": "nusar-2021_action_both_9023-b05d_9023_user_id_2021-02-03_134815",
+        "video": {
+            "start": 154.76666666666668,
+            "end": 230.1
+        },
+        "question": "Did I position the cabin and dump bed correctly before attaching them?",
+        "answers": [
+            "No, the cabin cannot fit over the front bumper. They need to be put on in reverse order with the cabin first.",
+            "You positioned them correctly but you should attach the cabin before the front bumper."
+        ]
+    },
+    {
+        "toy_id": "c14a",
+        "sequence_id": "nusar-2021_action_both_9035-c14a_9035_user_id_2021-02-18_164650",
+        "video": {
+            "start": 176.16666666666666,
+            "end": 314.6666666666667
+        },
+        "question": "Did I position the bumper the wrong way earlier?",
+        "answers": [
+            "It wasn't the position of the rear bumper that was wrong, it was the order in which it was attached.",
+            "The rear body cannot be attached until the bumper and steps have been attached.",
+            "No, you did not position the bumper incorrectly, but you need to attach the bumper before the cabin."
+        ]
+    },
+    {
+        "toy_id": "a20",
+        "sequence_id": "nusar-2021_action_both_9064-a20_9064_user_id_2021-02-22_161628",
+        "video": {
+            "start": 110.53333333333333,
+            "end": 179.3
+        },
+        "question": "Are there any steps left before completing the toy?",
+        "answers": [
+            "Yes, the cabin should be removed before attaching the figurines first.",
+            "Yes, attach the other water tank part, the roof, and the figurines. The figurines are supposed to be placed before the cabin but you can put them through the front."
+        ]
+    },
+    {
+        "toy_id": "b06a",
+        "sequence_id": "nusar-2021_action_both_9016-b06a_9016_user_id_2021-02-17_141229",
+        "video": {
+            "start": 71.16666666666667,
+            "end": 121.7
+        },
+        "question": "Do I need the screwdriver for the next step?",
+        "answers": [
+            "Yes, you'll need it for the wheels."
+        ]
+    },
+    {
+        "toy_id": "c11a",
+        "sequence_id": "nusar-2021_action_both_9054-c11a_9054_user_id_2021-02-08_162610",
+        "video": {
+            "start": 162.53333333333333,
+            "end": 648.6666666666666
+        },
+        "question": "Is the toy in the correct order right now?",
+        "answers": [
+            "Yes, you are on track."
+        ]
+    },
+    {
+        "toy_id": "c02a",
+        "sequence_id": "nusar-2021_action_both_9084-c02a_9084_user_id_2021-02-25_140008",
+        "video": {
+            "start": 129.6,
+            "end": 242.03333333333333
+        },
+        "question": "What should I attach after the wheel?",
+        "answers": [
+            "Or you could attach the roof to the cabin.",
+            "You could attach the boom to the arm.",
+            "You could attach the bucket to the arm.",
+            "You could attach the bumper to the chassis.",
+            "You could attach the roof to the cabin.",
+            "You can attach the roof to the cabin"
+        ]
+    },
+    {
+        "toy_id": "c14a",
+        "sequence_id": "nusar-2021_action_both_9063-c14a_9063_user_id_2021-02-17_101116",
+        "video": {
+            "start": 227.0,
+            "end": 569.5333333333333
+        },
+        "question": "Am I assembling the parts in the right order?",
+        "answers": [
+            "After some detaching and reattaching, you finally have attached things in the right order.",
+            "Yes, all you have left to attach is the base to the body.",
+            "Yes, you are on track."
+        ]
+    },
+    {
+        "toy_id": "b03b",
+        "sequence_id": "nusar-2021_action_both_9022-b03b_9022_user_id_2021-02-03_113201",
+        "video": {
+            "start": 206.4,
+            "end": 244.73333333333332
+        },
+        "question": "Should I reposition the screw, or is it in the right spot?",
+        "answers": [
+            "It's in the right spot, you can move on."
+        ]
+    },
+    {
+        "toy_id": "b05a",
+        "sequence_id": "nusar-2021_action_both_9065-b05a_9095_user_id_2021-02-17_122813",
+        "video": {
+            "start": 202.7,
+            "end": 224.43333333333334
+        },
+        "question": "What\u2019s the next step after positioning the arm?",
+        "answers": [
+            "You can attach wheels to chassis.",
+            "You can turntable base to chassis.",
+            "You can attach interior to chassis.",
+            "You should attach the bucket to the arm, the other arm, and put the arm between the boom parts."
+        ]
+    },
+    {
+        "toy_id": "b06c",
+        "sequence_id": "nusar-2021_action_both_9022-b06c_9022_user_id_2021-02-03_114112",
+        "video": {
+            "start": 176.8,
+            "end": 409.76666666666665
+        },
+        "question": "Did I position the cabin correctly before screwing it?",
+        "answers": [
+            "Yes, the cabin looks fine.",
+            "Yes, you positioned the cabin correctly."
+        ]
+    },
+    {
+        "toy_id": "c10a",
+        "sequence_id": "nusar-2021_action_both_9072-c10a_9072_user_id_2021-02-11_112415",
+        "video": {
+            "start": 149.76666666666668,
+            "end": 253.6
+        },
+        "question": "What step comes after positioning the container?",
+        "answers": [
+            "You should secure the container with screw.",
+            "Attach the roof and the bumper."
+        ]
+    },
+    {
+        "toy_id": "b05d",
+        "sequence_id": "nusar-2021_action_both_9045-b05d_9045_user_id_2021-02-19_103439",
+        "video": {
+            "start": 191.4,
+            "end": 283.0
+        },
+        "question": "What part connects to the cabin after this?",
+        "answers": [
+            "The bumper connects to the cabin next."
+        ]
+    },
+    {
+        "toy_id": "c06a",
+        "sequence_id": "nusar-2021_action_both_9054-c06a_9054_user_id_2021-02-08_150948",
+        "video": {
+            "start": 250.23333333333332,
+            "end": 554.4
+        },
+        "question": "What should I do next to fix my mistake?",
+        "answers": [
+            "You should detach the cabin from interior and secure the interior with screw and reattach the cabin.",
+            "Detach the roof, sound module, and cabin from the interior, so that you can screw in the interior. Then reattach everything in reverse order."
+        ]
+    },
+    {
+        "toy_id": "c10b",
+        "sequence_id": "nusar-2021_action_both_9056-c10b_9056_user_id_2021-02-09_105117",
+        "video": {
+            "start": 286.3666666666667,
+            "end": 1027.9333333333334
+        },
+        "question": "Is it okay to attach the dump bed now, or do I need to fix something first?",
+        "answers": [
+            "You need to attach the dump bed to the base, not to the chassis.",
+            "Yes, you can attach the dump bed now."
+        ]
+    },
+    {
+        "toy_id": "b08b",
+        "sequence_id": "nusar-2021_action_both_9024-b08b_9024_user_id_2021-02-03_141607",
+        "video": {
+            "start": 160.83333333333334,
+            "end": 336.6666666666667
+        },
+        "question": "Should I finish attaching the roof to the cabin first?",
+        "answers": [
+            "You can attach the roof to the cabin at anytime."
+        ]
+    },
+    {
+        "toy_id": "c08b",
+        "sequence_id": "nusar-2021_action_both_9034-c08b_9034_user_id_2021-02-04_161726",
+        "video": {
+            "start": 150.33333333333334,
+            "end": 276.8
+        },
+        "question": "Did I attach the bumper to the cabin correctly this time?",
+        "answers": [
+            "Yes, it\u2019s correct now."
+        ]
+    },
+    {
+        "toy_id": "b01a",
+        "sequence_id": "nusar-2021_action_both_9044-b01a_9044_user_id_2021-02-19_085343",
+        "video": {
+            "start": 203.83333333333334,
+            "end": 762.7
+        },
+        "question": "What part should I focus on next?",
+        "answers": [
+            "You need to attach the arm connector to the interior.",
+            "You could attach the arm to the arm connector.",
+            "You could attach the arm connector to the interior.",
+            "You should focus on attaching the arms and arm connector to the interior."
+        ]
+    },
+    {
+        "toy_id": "b05b",
+        "sequence_id": "nusar-2021_action_both_9044-b05b_9044_user_id_2021-02-19_091348",
+        "video": {
+            "start": 272.03333333333336,
+            "end": 360.23333333333335
+        },
+        "question": "Should I attach the wheels to the chassis now?",
+        "answers": [
+            "Yes, you could do that.",
+            "Or you could attach the turntable base to the interior.",
+            "Or you could add in all the screws that are missing from the crane arm.",
+            "You can attach the wheels at anytime."
+        ]
+    },
+    {
+        "toy_id": "c04a",
+        "sequence_id": "nusar-2021_action_both_9015-c04a_9015_user_id_2021-02-02_164257",
+        "video": {
+            "start": 171.46666666666667,
+            "end": 345.46666666666664
+        },
+        "question": "Did I forget to attach the boom to the arm connector?",
+        "answers": [
+            "You need to detach the arm connector from the chassis before you reconnect the boom to the arm connector."
+        ]
+    },
+    {
+        "toy_id": "a14",
+        "sequence_id": "nusar-2021_action_both_9074-a14_9074_user_id_2021-02-11_152306",
+        "video": {
+            "start": 180.93333333333334,
+            "end": 309.8666666666667
+        },
+        "question": "What should I do after positioning the rear door?",
+        "answers": [
+            "Attach the transport cabin to the base."
+        ]
+    },
+    {
+        "toy_id": "c06b",
+        "sequence_id": "nusar-2021_action_both_9074-c06b_9074_user_id_2021-02-11_160509",
+        "video": {
+            "start": 150.23333333333332,
+            "end": 269.1
+        },
+        "question": "Did I skip any steps or mix up the order while attaching the roof?",
+        "answers": [
+            "Yes, you forgot to attach the sound module to the cabin before attaching the roof.",
+            "Yes, you skipped securing the mixer and the cabin with screws."
+        ]
+    },
+    {
+        "toy_id": "c14a",
+        "sequence_id": "nusar-2021_action_both_9086-c14a_9086_user_id_2021-02-16_153910",
+        "video": {
+            "start": 183.13333333333333,
+            "end": 231.93333333333334
+        },
+        "question": "What size screw should I use for the first wheel?",
+        "answers": [
+            "Use the large screws for the wheels."
+        ]
+    },
+    {
+        "toy_id": "c13d",
+        "sequence_id": "nusar-2021_action_both_9052-c13d_9052_user_id_2021-02-08_111738",
+        "video": {
+            "start": 157.26666666666668,
+            "end": 282.3
+        },
+        "question": "Is the bucket supposed to face this way?",
+        "answers": [
+            "Yes, that\u2019s the correct orientation.",
+            "Yes, but you need to align the holes on the bucket and chassis."
+        ]
+    },
+    {
+        "toy_id": "c06d",
+        "sequence_id": "nusar-2021_action_both_9012-c06d_9012_user_id_2021-02-18_121034",
+        "video": {
+            "start": 121.66666666666667,
+            "end": 273.3666666666667
+        },
+        "question": "Did I position the sound module correctly, or do I need to adjust it?",
+        "answers": [
+            "It's positioned correctly; just secure it now.",
+            "Make sure it fits flat before you attach the roof over it."
+        ]
+    },
+    {
+        "toy_id": "b04c",
+        "sequence_id": "nusar-2021_action_both_9034-b04c_9034_user_id_2021-02-04_155013",
+        "video": {
+            "start": 175.43333333333334,
+            "end": 301.8666666666667
+        },
+        "question": "Did I forget to attach something after the jackhammer arm?",
+        "answers": [
+            "Yes, you need to attach the wheels now."
+        ]
+    },
+    {
+        "toy_id": "a09",
+        "sequence_id": "nusar-2021_action_both_9044-a09_9044_user_id_2021-02-05_155544",
+        "video": {
+            "start": 210.83333333333334,
+            "end": 232.6
+        },
+        "question": "What should I have done before attaching the cabin to the interior?",
+        "answers": [
+            "You should attach the interior to the chassis first."
+        ]
+    },
+    {
+        "toy_id": "c10c",
+        "sequence_id": "nusar-2021_action_both_9015-c10c_9015_user_id_2021-02-02_165955",
+        "video": {
+            "start": 177.03333333333333,
+            "end": 684.7333333333333
+        },
+        "question": "Did I put the water tank in the wrong position earlier?",
+        "answers": [
+            "Yes, you did. The water tank was positioned incorrectly multiple times.",
+            "Yes, you need to attach one part of the water tank to the base before putting the other part of the water tank together.",
+            "Yes, the water tank should be installed on top of the rear base instead of directly on the chassis."
+        ]
+    },
+    {
+        "toy_id": "b03b",
+        "sequence_id": "nusar-2021_action_both_9066-b03b_9066_user_id_2021-02-17_153607",
+        "video": {
+            "start": 115.5,
+            "end": 155.5
+        },
+        "question": "Did I skip any steps before picking up the water tank?",
+        "answers": [
+            "No, you are on track."
+        ]
+    },
+    {
+        "toy_id": "c04d",
+        "sequence_id": "nusar-2021_action_both_9031-c04d_9031_user_id_2021-02-04_104130",
+        "video": {
+            "start": 222.53333333333333,
+            "end": 345.5
+        },
+        "question": "Should I attach the arm or the bucket next?",
+        "answers": [
+            "Either attach the bucket to the arm or attach the arm to the arm connector.",
+            "You can attach them in any order."
+        ]
+    },
+    {
+        "toy_id": "c05a",
+        "sequence_id": "nusar-2021_action_both_9054-c05a_9054_user_id_2021-02-08_160931",
+        "video": {
+            "start": 301.7,
+            "end": 731.0
+        },
+        "question": "Why did I remove the arm after attaching it to the boom?",
+        "answers": [
+            "It's easier to attach the arm to the boom when they are not both already assembled.",
+            "You were correcting the previous steps: attach the bucket to one arm and attach another arm, then attch the arm to one boom part, followed by attaching another boom."
+        ]
+    },
+    {
+        "toy_id": "b08a",
+        "sequence_id": "nusar-2021_action_both_9056-b08a_9056_user_id_2021-02-22_141934",
+        "video": {
+            "start": 231.5,
+            "end": 244.26666666666668
+        },
+        "question": "Where exactly should the track connect to the chassis?",
+        "answers": [
+            "The location is correct, but the orientation is wrong: flip up one of the tracks so that the wheels are on the bottom."
+        ]
+    },
+    {
+        "toy_id": "b01b",
+        "sequence_id": "nusar-2021_action_both_9031-b01b_9031_user_id_2021-02-04_102950",
+        "video": {
+            "start": 276.43333333333334,
+            "end": 382.76666666666665
+        },
+        "question": "Did I skip any steps before attempting to position the arm?",
+        "answers": [
+            "Yes, you skipped attaching the nuts to the arms."
+        ]
+    },
+    {
+        "toy_id": "b06c",
+        "sequence_id": "nusar-2021_action_both_9022-b06c_9022_user_id_2021-02-03_114112",
+        "video": {
+            "start": 176.8,
+            "end": 326.76666666666665
+        },
+        "question": "What do I need to do next with the bucket?",
+        "answers": [
+            "Attach the bucket to the boom with a screw."
+        ]
+    },
+    {
+        "toy_id": "c12e",
+        "sequence_id": "nusar-2021_action_both_9074-c12e_9074_user_id_2021-02-11_155839",
+        "video": {
+            "start": 78.96666666666667,
+            "end": 233.26666666666668
+        },
+        "question": "Should I attach the cabin before or after the grill?",
+        "answers": [
+            "You should attach the cabin first, then the grill."
+        ]
+    },
+    {
+        "toy_id": "b03a",
+        "sequence_id": "nusar-2021_action_both_9051-b03a_9051_user_id_2021-02-22_114140",
+        "video": {
+            "start": 117.6,
+            "end": 272.8
+        },
+        "question": "Is there anything I missed while assembling the toy?",
+        "answers": [
+            "Nope, it looks like you did everything.",
+            "No, you did not miss anything."
+        ]
+    },
+    {
+        "toy_id": "c06a",
+        "sequence_id": "nusar-2021_action_both_9076-c06a_9076_user_id_2021-02-12_112908",
+        "video": {
+            "start": 332.76666666666665,
+            "end": 395.8333333333333
+        },
+        "question": "Is the cabin positioned correctly for screwing?",
+        "answers": [
+            "Yes, it's aligned perfectly."
+        ]
+    },
+    {
+        "toy_id": "a26",
+        "sequence_id": "nusar-2021_action_both_9083-a26_9083_user_id_2021-02-16_112714",
+        "video": {
+            "start": 116.3,
+            "end": 214.93333333333334
+        },
+        "question": "What tool do I need to use for the next step?",
+        "answers": [
+            "Nothing because you're done!",
+            "You have finished assembling the toy."
+        ]
+    },
+    {
+        "toy_id": "b04d",
+        "sequence_id": "nusar-2021_action_both_9033-b04d_9033_user_id_2021-02-18_141950",
+        "video": {
+            "start": 130.33333333333334,
+            "end": 239.26666666666668
+        },
+        "question": "What should I do after putting down the partial toy?",
+        "answers": [
+            "You need to attach roller to push frame",
+            "You need to attach push frame to arm connector"
+        ]
+    },
+    {
+        "toy_id": "a24",
+        "sequence_id": "nusar-2021_action_both_9065-a24_9095_user_id_2021-02-17_121359",
+        "video": {
+            "start": 139.33333333333334,
+            "end": 212.86666666666667
+        },
+        "question": "Should I align this with the interior now?",
+        "answers": [
+            "Yes, line it up carefully before attaching.",
+            "Yes, you can attach body to interior now.",
+            "Yes, align the body over the front of the interior."
+        ]
+    },
+    {
+        "toy_id": "c12a",
+        "sequence_id": "nusar-2021_action_both_9051-c12a_9051_user_id_2021-02-22_121059",
+        "video": {
+            "start": 144.83333333333334,
+            "end": 166.23333333333332
+        },
+        "question": "Did I attach the base to the chassis too early?",
+        "answers": [
+            "Yes, you need to attach the cabin to the chassis before you attach the base.",
+            "Yes, you need to attach cabin to interior first."
+        ]
+    },
+    {
+        "toy_id": "b04d",
+        "sequence_id": "nusar-2021_action_both_9062-b04d_9062_user_id_2021-02-09_152854",
+        "video": {
+            "start": 161.16666666666666,
+            "end": 266.8333333333333
+        },
+        "question": "What should I do next after attaching the arm connector?",
+        "answers": [
+            "Disconnect the arm connector from the chassis and attach the push frame to the arm connector. Then reconnect the arm connector to the chassis.",
+            "You should detach the arm connector and attach the push frame to the arm connector first. Reattach the cabin next, then reattach the arm connector."
+        ]
+    },
+    {
+        "toy_id": "c13d",
+        "sequence_id": "nusar-2021_action_both_9061-c13d_9061_user_id_2021-02-09_143830",
+        "video": {
+            "start": 155.66666666666666,
+            "end": 166.73333333333332
+        },
+        "question": "Is the bucket positioned correctly, or do I need to adjust it?",
+        "answers": [
+            "It looks fine\u2014just tighten it."
+        ]
+    },
+    {
+        "toy_id": "a09",
+        "sequence_id": "nusar-2021_action_both_9066-a09_9066_user_id_2021-02-17_152039",
+        "video": {
+            "start": 187.8,
+            "end": 351.6666666666667
+        },
+        "question": "Is there anything I missed or need to fix before moving on?",
+        "answers": [
+            "No, everything looks good.",
+            "You need to secure the boom with nuts."
+        ]
+    },
+    {
+        "toy_id": "b05b",
+        "sequence_id": "nusar-2021_action_both_9044-b05b_9044_user_id_2021-02-19_091348",
+        "video": {
+            "start": 272.03333333333336,
+            "end": 582.6666666666666
+        },
+        "question": "Was I supposed to position the crane arm before attaching the turntable base?",
+        "answers": [
+            "Yes, you should have secured the turntable base before attaching the crane arm to turntable base."
+        ]
+    },
+    {
+        "toy_id": "b04c",
+        "sequence_id": "nusar-2021_action_both_9055-b04c_9055_user_id_2021-02-24_103545",
+        "video": {
+            "start": 115.63333333333334,
+            "end": 165.36666666666667
+        },
+        "question": "Is the interior supposed to be attached to the chassis before or after the boom step?",
+        "answers": [
+            "It can be attached after; the order doesn't matter in this case.",
+            "It can be attached before. The order doesn't matter in this case."
+        ]
+    },
+    {
+        "toy_id": "b06c",
+        "sequence_id": "nusar-2021_action_both_9073-b06c_9073_user_id_2021-02-11_135342",
+        "video": {
+            "start": 177.73333333333332,
+            "end": 390.26666666666665
+        },
+        "question": "What do I need to fix after attaching the bucket to the turntable top?",
+        "answers": [
+            "You need to detach the bucket and correctly attach the boom first."
+        ]
+    },
+    {
+        "toy_id": "c06d",
+        "sequence_id": "nusar-2021_action_both_9012-c06d_9012_user_id_2021-02-18_121034",
+        "video": {
+            "start": 121.66666666666667,
+            "end": 215.06666666666666
+        },
+        "question": "What step was I supposed to do before attaching the roof?",
+        "answers": [
+            "You were supposed to attach the sound module to the cabin before attaching the roof.",
+            "You should install the sound module before the roof."
+        ]
+    },
+    {
+        "toy_id": "a02",
+        "sequence_id": "nusar-2021_action_both_9013-a02_9013_user_id_2021-02-02_130807",
+        "video": {
+            "start": 132.2,
+            "end": 244.5
+        },
+        "question": "Did I place the front body in the wrong position?",
+        "answers": [
+            "No, you did not place it in the wrong position."
+        ]
+    },
+    {
+        "toy_id": "c09c",
+        "sequence_id": "nusar-2021_action_both_9023-c09c_9023_user_id_2021-02-23_134459",
+        "video": {
+            "start": 148.3,
+            "end": 309.93333333333334
+        },
+        "question": "What\u2019s the next step after attaching the front bumper?",
+        "answers": [
+            "Move on to attaching the wheels."
+        ]
+    },
+    {
+        "toy_id": "a23",
+        "sequence_id": "nusar-2021_action_both_9045-a23_9045_user_id_2021-02-19_102455",
+        "video": {
+            "start": 173.03333333333333,
+            "end": 334.93333333333334
+        },
+        "question": "Did I place the rocker panel in the correct spot?",
+        "answers": [
+            "No, it needs to be aligned with the edge of the body, not the chassis.",
+            "No, you put each panel on the wrong side. Switch the sides you attach them to and it will work.",
+            "No, it should be aligned to the body and also the panels needs be switched to the correct side."
+        ]
+    },
+    {
+        "toy_id": "a14",
+        "sequence_id": "nusar-2021_action_both_9072-a14_9071_user_id_2021-02-11_104901",
+        "video": {
+            "start": 210.66666666666666,
+            "end": 335.7
+        },
+        "question": "Is the cabin supposed to snap into place, or do I need screws?",
+        "answers": [
+            "It snaps into place; no screws are needed for the cabin.",
+            "The problem is that you need to attach the cabin before you attach the base. You attached them in the wrong order."
+        ]
+    },
+    {
+        "toy_id": "c13a",
+        "sequence_id": "nusar-2021_action_both_9086-c13a_9086_user_id_2021-02-16_152408",
+        "video": {
+            "start": 217.86666666666667,
+            "end": 233.86666666666667
+        },
+        "question": "Where exactly should the step go on the chassis?",
+        "answers": [
+            "The steps are different for each side. Make sure they are on the proper side with the wide part towards the front of the roller.",
+            "You attached the steps vice versa. Detach and swap them so that they are on the correct side where the narrow side towards the screws on the chassis."
+        ]
+    },
+    {
+        "toy_id": "c02a",
+        "sequence_id": "nusar-2021_action_both_9061-c02a_9061_user_id_2021-02-09_141537",
+        "video": {
+            "start": 270.03333333333336,
+            "end": 381.56666666666666
+        },
+        "question": "Am I putting the bumper in the right spot?",
+        "answers": [
+            "No, the bumper needs to be attached to the rear body after you attach the cabin then attach the rear body."
+        ]
+    },
+    {
+        "toy_id": "a02",
+        "sequence_id": "nusar-2021_action_both_9042-a02_9042_user_id_2021-02-05_111642",
+        "video": {
+            "start": 154.2,
+            "end": 155.56666666666666
+        },
+        "question": "Did I skip any step before attaching the chassis?",
+        "answers": [
+            "No, you're on the right track.",
+            "No, that's a good first move."
+        ]
+    },
+    {
+        "toy_id": "b05c",
+        "sequence_id": "nusar-2021_action_both_9021-b05c_9021_user_id_2021-02-23_094649",
+        "video": {
+            "start": 125.2,
+            "end": 216.96666666666667
+        },
+        "question": "Should I attach the wheel to the chassis now or do something else first?",
+        "answers": [
+            "Attach the wheel to the chassis next.",
+            "Attaching the wheel is a good next move.",
+            "If you wish, you could attach the rear bumper or the cabin to the interior next."
+        ]
+    },
+    {
+        "toy_id": "c04a",
+        "sequence_id": "nusar-2021_action_both_9015-c04a_9015_user_id_2021-02-02_164257",
+        "video": {
+            "start": 171.46666666666667,
+            "end": 184.8
+        },
+        "question": "Where exactly should I position the arm now?",
+        "answers": [
+            "It should align with the boom's joint for screwing.",
+            "The arm should be attached to the boom."
+        ]
+    },
+    {
+        "toy_id": "b06a",
+        "sequence_id": "nusar-2021_action_both_9052-b06a_9052_user_id_2021-02-08_110734",
+        "video": {
+            "start": 143.83333333333334,
+            "end": 157.03333333333333
+        },
+        "question": "What should I have done after picking up the interior?",
+        "answers": [
+            "You should have attached it to the chassis without screwing it in.",
+            "You can attach the interior to the chassis."
+        ]
+    },
+    {
+        "toy_id": "c13a",
+        "sequence_id": "nusar-2021_action_both_9064-c13a_9064_user_id_2021-02-22_170304",
+        "video": {
+            "start": 149.1,
+            "end": 432.06666666666666
+        },
+        "question": "What should I have done before attaching the cabin?",
+        "answers": [
+            "You should have attached the step in the correct position first.",
+            "The step needs to be properly positioned before the cabin."
+        ]
+    },
+    {
+        "toy_id": "b05d",
+        "sequence_id": "nusar-2021_action_both_9023-b05d_9023_user_id_2021-02-03_134815",
+        "video": {
+            "start": 154.76666666666668,
+            "end": 273.3333333333333
+        },
+        "question": "Did I miss attaching something before positioning the front bumper?",
+        "answers": [
+            "Yes, you need to attach the cabin to the interior first.",
+            "Yes, the cabin and interior need to be connected before the bumper."
+        ]
+    },
+    {
+        "toy_id": "c09a",
+        "sequence_id": "nusar-2021_action_both_9035-c09a_9035_user_id_2021-02-18_163930",
+        "video": {
+            "start": 176.46666666666667,
+            "end": 338.8666666666667
+        },
+        "question": "Did I miss anything before attaching the base to the chassis?",
+        "answers": [
+            "No, you\u2019re ready to attach the base to the chassis."
+        ]
+    },
+    {
+        "toy_id": "b06a",
+        "sequence_id": "nusar-2021_action_both_9083-b06a_9083_user_id_2021-02-16_113603",
+        "video": {
+            "start": 134.93333333333334,
+            "end": 279.03333333333336
+        },
+        "question": "What step comes after detaching the interior?",
+        "answers": [
+            "You need to reattach the interior to the chassis.",
+            "Reattaching the interior is the next step."
+        ]
+    },
+    {
+        "toy_id": "c13a",
+        "sequence_id": "nusar-2021_action_both_9071-c13a_9071_user_id_2021-02-11_090900",
+        "video": {
+            "start": 293.96666666666664,
+            "end": 565.3666666666667
+        },
+        "question": "Should I have picked up the strap before attaching the body?",
+        "answers": [
+            "You can proceed with either step. You may attach the strap to the cabin or the body to the chassis."
+        ]
+    },
+    {
+        "toy_id": "a28",
+        "sequence_id": "nusar-2021_action_both_9013-a28_9013_user_id_2021-02-02_134923",
+        "video": {
+            "start": 91.6,
+            "end": 187.43333333333334
+        },
+        "question": "Is it okay to attach the body now, or did I skip something?",
+        "answers": [
+            "Yes, it is okay to attach it now, and it is in the right position now. You did not skip anything."
+        ]
+    },
+    {
+        "toy_id": "a03",
+        "sequence_id": "nusar-2021_action_both_9023-a03_9023_user_id_2021-02-23_133018",
+        "video": {
+            "start": 147.06666666666666,
+            "end": 315.03333333333336
+        },
+        "question": "Where exactly should the blade align with the track?",
+        "answers": [
+            "It should align with the center of the track.",
+            "It is in the correct alignment now."
+        ]
+    },
+    {
+        "toy_id": "b03b",
+        "sequence_id": "nusar-2021_action_both_9066-b03b_9066_user_id_2021-02-17_153607",
+        "video": {
+            "start": 115.5,
+            "end": 149.13333333333333
+        },
+        "question": "What should I have done before attaching the water tank?",
+        "answers": [
+            "There is nothing you should have done before attaching the water tank, but you need to make sure it is placed properly onto the chassis.",
+            "No steps are required before attaching the water tank."
+        ]
+    },
+    {
+        "toy_id": "c07b",
+        "sequence_id": "nusar-2021_action_both_9035-c07b_9035_user_id_2021-02-04_171214",
+        "video": {
+            "start": 286.6666666666667,
+            "end": 349.76666666666665
+        },
+        "question": "Did I attach the interior and bumper in the wrong order earlier?",
+        "answers": [
+            "Yes, you should have attached the interior to the chassis before attaching the cabin and the bumper.",
+            "Yes, you attached the bumper before attaching the interior to the chassis."
+        ]
+    },
+    {
+        "toy_id": "c12a",
+        "sequence_id": "nusar-2021_action_both_9073-c12a_9073_user_id_2021-02-11_141222",
+        "video": {
+            "start": 216.46666666666667,
+            "end": 370.8666666666667
+        },
+        "question": "Did I miss any step with the crane arm?",
+        "answers": [
+            "No, you're on the right track so far."
+        ]
+    },
+    {
+        "toy_id": "b08a",
+        "sequence_id": "nusar-2021_action_both_9073-b08a_9073_user_id_2021-02-11_145217",
+        "video": {
+            "start": 112.0,
+            "end": 113.5
+        },
+        "question": "What part comes after attaching the interior to the chassis?",
+        "answers": [
+            "Attach the cabin to the interior next.",
+            "You can basically continue with any parts such as the roof or track.",
+            "Attach the clamp to the arm.",
+            "Attach the boom to the interior.",
+            "Attach the roof to the cabin.",
+            "Attach the engine cover to the body.",
+            "Attach the track to the chassis.",
+            "Attach the body to the chassis.",
+            "Attach the arm to the boom."
+        ]
+    },
+    {
+        "toy_id": "b05c",
+        "sequence_id": "nusar-2021_action_both_9042-b05c_9042_user_id_2021-02-05_115957",
+        "video": {
+            "start": 190.23333333333332,
+            "end": 434.1
+        },
+        "question": "What should I do after attaching the wheels?",
+        "answers": [
+            "After you attach the tires, there's nothing else left to do."
+        ]
+    },
+    {
+        "toy_id": "c06d",
+        "sequence_id": "nusar-2021_action_both_9012-c06d_9012_user_id_2021-02-18_121034",
+        "video": {
+            "start": 121.66666666666667,
+            "end": 223.66666666666666
+        },
+        "question": "How can I tell if the water tank is in the correct position?",
+        "answers": [
+            "You only need to make sure that the water tank is positioned correctly to the rear base and that you screwed the water tank parts together.",
+            "Make sure to attach the water tank part to the rear base."
+        ]
+    },
+    {
+        "toy_id": "c13a",
+        "sequence_id": "nusar-2021_action_both_9064-c13a_9064_user_id_2021-02-22_170304",
+        "video": {
+            "start": 149.1,
+            "end": 293.0
+        },
+        "question": "Is this the correct way to position it?",
+        "answers": [
+            "Not quite; flip it over and try again."
+        ]
+    },
+    {
+        "toy_id": "c07c",
+        "sequence_id": "nusar-2021_action_both_9012-c07c_9012_user_id_2021-02-01_164345",
+        "video": {
+            "start": 127.73333333333333,
+            "end": 168.33333333333334
+        },
+        "question": "Did I position the fourth wheel correctly?",
+        "answers": [
+            "Yes, it looks good."
+        ]
+    },
+    {
+        "toy_id": "c04d",
+        "sequence_id": "nusar-2021_action_both_9072-c04d_9072_user_id_2021-02-11_113148",
+        "video": {
+            "start": 142.53333333333333,
+            "end": 239.66666666666666
+        },
+        "question": "Is the arm in the right place, or did I skip something?",
+        "answers": [
+            "The arm needs to be attached to the arm connector, which appears to already be in place. You can proceed to attach the bucket to the arm if you want.",
+            "As for the arm, no steps have been missed. It\u2019s in the right place.",
+            "Yes, the arm is in the right place."
+        ]
+    },
+    {
+        "toy_id": "c06c",
+        "sequence_id": "nusar-2021_action_both_9031-c06c_9031_user_id_2021-02-23_164844",
+        "video": {
+            "start": 232.63333333333333,
+            "end": 338.8333333333333
+        },
+        "question": "Did I miss a step before attaching the turntable base?",
+        "answers": [
+            "Yes, you need to attach the base to the chassis first.",
+            "Yes, the base should have been connected to the chassis earlier."
+        ]
+    },
+    {
+        "toy_id": "a23",
+        "sequence_id": "nusar-2021_action_both_9045-a23_9045_user_id_2021-02-05_165228",
+        "video": {
+            "start": 207.86666666666667,
+            "end": 714.4666666666667
+        },
+        "question": "Did I attach the roof correctly, or should I fix it?",
+        "answers": [
+            "The roof looks fine; you can move on to the next part.",
+            "You attached the roof correctly."
+        ]
+    },
+    {
+        "toy_id": "c10c",
+        "sequence_id": "nusar-2021_action_both_9015-c10c_9015_user_id_2021-02-02_165955",
+        "video": {
+            "start": 177.03333333333333,
+            "end": 588.7
+        },
+        "question": "Did I attach the water tank too early in the process?",
+        "answers": [
+            "No, the water tank can be attached at any point in the process. However, it should be connected to the rear base, not the chassis, as you've repeatedly attached and detached it from.",
+            "The issue is that the water tank should be attached to the base, not the chassis."
+        ]
+    },
+    {
+        "toy_id": "c13a",
+        "sequence_id": "nusar-2021_action_both_9081-c13a_9081_user_id_2021-02-12_162453",
+        "video": {
+            "start": 124.86666666666666,
+            "end": 360.2
+        },
+        "question": "Where exactly should the cabin go on the chassis?",
+        "answers": [
+            "It should be placed on top of the rear section of the chassis, leaving space at the front for the front body to be attached.",
+            "The cabin should be attached to the rear part of the chassis.",
+            "The location looks correct, but the direction is wrong, so rotate it 180 degrees."
+        ]
+    },
+    {
+        "toy_id": "c07b",
+        "sequence_id": "nusar-2021_action_both_9082-c07b_9082_user_id_2021-02-16_133255",
+        "video": {
+            "start": 123.36666666666666,
+            "end": 183.63333333333333
+        },
+        "question": "Should I finish attaching the turntable top before moving on?",
+        "answers": [
+            "You can move on to another part, but make sure to secure it before attaching the ladder."
+        ]
+    },
+    {
+        "toy_id": "a14",
+        "sequence_id": "nusar-2021_action_both_9072-a14_9071_user_id_2021-02-11_104901",
+        "video": {
+            "start": 210.66666666666666,
+            "end": 343.0
+        },
+        "question": "Should I have worked on the cabin before picking up the rear base?",
+        "answers": [
+            "Yes, the cabin needs to go on before the rear base.",
+            "Exactly, the cabin should have been positioned first."
+        ]
+    },
+    {
+        "toy_id": "c12e",
+        "sequence_id": "nusar-2021_action_both_9053-c12e_9053_user_id_2021-02-08_142744",
+        "video": {
+            "start": 202.2,
+            "end": 320.6
+        },
+        "question": "Should I have detached the interior after attaching it?",
+        "answers": [
+            "No, once the interior is attached, you should leave it in place."
+        ]
+    },
+    {
+        "toy_id": "c10c",
+        "sequence_id": "nusar-2021_action_both_9075-c10c_9075_user_id_2021-02-12_100519",
+        "video": {
+            "start": 216.6,
+            "end": 316.56666666666666
+        },
+        "question": "Was I supposed to remove the cabin and rear base after attaching them?",
+        "answers": [
+            "No, you were not. Reattach them in the same order, the cabin and then the rear base."
+        ]
+    },
+    {
+        "toy_id": "c13e",
+        "sequence_id": "nusar-2021_action_both_9045-c13e_9045_user_id_2021-02-19_134158",
+        "video": {
+            "start": 186.8,
+            "end": 201.86666666666667
+        },
+        "question": "Did I put the cabin on too early?",
+        "answers": [
+            "Yes, you should attach the steps to the chassis before the cabin.",
+            "Yes, the cabin should be attached after the steps are attached to the chassis."
+        ]
+    },
+    {
+        "toy_id": "b04a",
+        "sequence_id": "nusar-2021_action_both_9032-b04a_9032_user_id_2021-02-04_113248",
+        "video": {
+            "start": 192.73333333333332,
+            "end": 332.96666666666664
+        },
+        "question": "Should I have positioned the boom before attaching the arm connector?",
+        "answers": [
+            "Yes, you should have positioned the boom to the arm connector before attaching the arm connector to the chassis.",
+            "Yes, the boom should be attached before attaching the arm connector to the chassis."
+        ]
+    },
+    {
+        "toy_id": "c04a",
+        "sequence_id": "nusar-2021_action_both_9073-c04a_9073_user_id_2021-02-11_142611",
+        "video": {
+            "start": 184.6,
+            "end": 272.1666666666667
+        },
+        "question": "Where exactly should I place the bumper before screwing it in?",
+        "answers": [
+            "You need to re-positioned the interior to the other end of the chassis before placing the bumper onto the back of the cabin."
+        ]
+    },
+    {
+        "toy_id": "a20",
+        "sequence_id": "nusar-2021_action_both_9076-a20_9076_user_id_2021-02-12_110652",
+        "video": {
+            "start": 267.1,
+            "end": 415.6333333333333
+        },
+        "question": "Did I pick up the wrong screw for the figurine?",
+        "answers": [
+            "No screws are needed to attach the figurine."
+        ]
+    },
+    {
+        "toy_id": "c05a",
+        "sequence_id": "nusar-2021_action_both_9054-c05a_9054_user_id_2021-02-08_160931",
+        "video": {
+            "start": 301.7,
+            "end": 444.6333333333333
+        },
+        "question": "Am I putting this screw in the right position?",
+        "answers": [
+            "Yes, you're doing it right."
+        ]
+    },
+    {
+        "toy_id": "a28",
+        "sequence_id": "nusar-2021_action_both_9013-a28_9013_user_id_2021-02-02_134923",
+        "video": {
+            "start": 91.6,
+            "end": 224.2
+        },
+        "question": "Are all the wheels in the right place?",
+        "answers": [
+            "Yes, all the wheels are in the right place."
+        ]
+    },
+    {
+        "toy_id": "c07b",
+        "sequence_id": "nusar-2021_action_both_9082-c07b_9082_user_id_2021-02-16_133255",
+        "video": {
+            "start": 123.36666666666666,
+            "end": 308.6
+        },
+        "question": "Am I supposed to use the screwdriver now?",
+        "answers": [
+            "Yes, pick up the screwdriver and finish screwing the second wheel.",
+            "Yes, you left the second wheel unfinished. Use the screwdriver to secure it."
+        ]
+    },
+    {
+        "toy_id": "b01b",
+        "sequence_id": "nusar-2021_action_both_9031-b01b_9031_user_id_2021-02-04_102950",
+        "video": {
+            "start": 276.43333333333334,
+            "end": 494.2
+        },
+        "question": "Was detaching the nut from the arm a mistake?",
+        "answers": [
+            "Yes, it wasn\u2019t necessary at this stage."
+        ]
+    },
+    {
+        "toy_id": "a14",
+        "sequence_id": "nusar-2021_action_both_9021-a14_9021_user_id_2021-02-23_092806",
+        "video": {
+            "start": 165.53333333333333,
+            "end": 291.8333333333333
+        },
+        "question": "What step comes after attaching the rear roof?",
+        "answers": [
+            "You can attach the wheels to the chassis after this.",
+            "Attach the roof to the cabin."
+        ]
+    },
+    {
+        "toy_id": "c02c",
+        "sequence_id": "nusar-2021_action_both_9064-c02c_9064_user_id_2021-02-22_163357",
+        "video": {
+            "start": 209.06666666666666,
+            "end": 220.3
+        },
+        "question": "Did I attach the body too early in the process?",
+        "answers": [
+            "Yes, you skipped two important steps including attaching the interior to the chassis and attaching the interior to the cabin.",
+            "Before that step, the interior should be attached to the chassis, and then the cabin should be attached to the interior."
+        ]
+    },
+    {
+        "toy_id": "c03c",
+        "sequence_id": "nusar-2021_action_both_9043-c03c_9043_user_id_2021-02-05_141851",
+        "video": {
+            "start": 114.96666666666667,
+            "end": 157.0
+        },
+        "question": "Should I finish screwing the cabin before attaching the wheels?",
+        "answers": [
+            "No, you can attach the wheels now if you want."
+        ]
+    },
+    {
+        "toy_id": "c09c",
+        "sequence_id": "nusar-2021_action_both_9065-c09c_9095_user_id_2021-02-17_124439",
+        "video": {
+            "start": 198.23333333333332,
+            "end": 326.96666666666664
+        },
+        "question": "Should I attach the rear roof now or something else first?",
+        "answers": [
+            "You can redirect to attach the light to the roof.",
+            "You can attach the bumper to the cabin.",
+            "You may attach the base to the chassis if you want.",
+            "You can attach the rear roof now.",
+            "Attaching the rear roof to to the transport cabin can fix the rear door now."
+        ]
+    },
+    {
+        "toy_id": "c14a",
+        "sequence_id": "nusar-2021_action_both_9035-c14a_9035_user_id_2021-02-18_164650",
+        "video": {
+            "start": 176.16666666666666,
+            "end": 301.9
+        },
+        "question": "Did I attach the rear body to the chassis incorrectly?",
+        "answers": [
+            "Please attach the rear body in reverse, with the front and back swapped.",
+            "Yes, the rear body needs to be rotated 180 degrees."
+        ]
+    },
+    {
+        "toy_id": "a16",
+        "sequence_id": "nusar-2021_action_both_9066-a16_9066_user_id_2021-02-17_152811",
+        "video": {
+            "start": 197.9,
+            "end": 275.03333333333336
+        },
+        "question": "Did I miss a step before positioning the screw on the chassis?",
+        "answers": [
+            "No, you're doing it in the right order so far."
+        ]
+    },
+    {
+        "toy_id": "c12e",
+        "sequence_id": "nusar-2021_action_both_9033-c12e_9033_user_id_2021-02-18_150129",
+        "video": {
+            "start": 135.0,
+            "end": 199.63333333333333
+        },
+        "question": "Did I attach the base to the chassis too early?",
+        "answers": [
+            "Yes, you were supposed to attach the interior to the chassis first.",
+            "Yes, the base should come after the interior is secured.",
+            "Yes, you were supposed to attach the cabin to the interior first.",
+            "Yes, you were supposed to attach the interior to the chassis and the cabin to the interior before the base to the chassis."
+        ]
+    },
+    {
+        "toy_id": "c09b",
+        "sequence_id": "nusar-2021_action_both_9024-c09b_9024_user_id_2021-02-23_152108",
+        "video": {
+            "start": 135.0,
+            "end": 151.0
+        },
+        "question": "What should I do after finishing the second screw?",
+        "answers": [
+            "You can move on to attach the wheel to the chassis.",
+            "You can continue focusing on the water tank by attaching the other water tank part onto it.",
+            "You may attach the roof to the cabin next.",
+            "You can attach the light to the roof next if you want.",
+            "You can move on to attach the sound module to the chassis.",
+            "Attach the wheel to the chassis.",
+            "Attach the water tank to the water tank.",
+            "Attach the roof to the cabin.",
+            "Attach the light to the roof.",
+            "Attach the sound module to the chassis."
+        ]
+    },
+    {
+        "toy_id": "c03a",
+        "sequence_id": "nusar-2021_action_both_9083-c03a_9083_user_id_2021-02-16_114344",
+        "video": {
+            "start": 118.93333333333334,
+            "end": 239.73333333333332
+        },
+        "question": "When I tried to position the fourth wheel, did I miss a step?",
+        "answers": [
+            "No, but you need to only make sure that the wheel is properly aligned.",
+            "No, you didn't miss any steps."
+        ]
+    },
+    {
+        "toy_id": "b06b",
+        "sequence_id": "nusar-2021_action_both_9011-b06b_9011_user_id_2021-02-01_154253",
+        "video": {
+            "start": 94.43333333333334,
+            "end": 190.36666666666667
+        },
+        "question": "What should I have done differently when attaching the hook?",
+        "answers": [
+            "Nothing, you have followed the procedure perfectly.",
+            "There was nothing wrong with how you attached the hook."
+        ]
+    },
+    {
+        "toy_id": "c13a",
+        "sequence_id": "nusar-2021_action_both_9071-c13a_9071_user_id_2021-02-11_090900",
+        "video": {
+            "start": 293.96666666666664,
+            "end": 561.5
+        },
+        "question": "What should I focus on next, attaching the light or finishing the body?",
+        "answers": [
+            "You can attach the light to the cabin, then come back to the body.",
+            "You may finish attaching the body to the chassis now.",
+            "You can reattach the cabin to the chassis next."
+        ]
+    },
+    {
+        "toy_id": "b04b",
+        "sequence_id": "nusar-2021_action_both_9026-b04b_9026_user_id_2021-02-03_163855",
+        "video": {
+            "start": 214.7,
+            "end": 507.1
+        },
+        "question": "Did I put the parts in the wrong order before?",
+        "answers": [
+            "Yes, you must reattach the bumper to the body before attaching the body to the chassis."
+        ]
+    },
+    {
+        "toy_id": "c03c",
+        "sequence_id": "nusar-2021_action_both_9043-c03c_9043_user_id_2021-02-05_141851",
+        "video": {
+            "start": 114.96666666666667,
+            "end": 157.0
+        },
+        "question": "Is the cabin aligned correctly, or do I need to adjust it?",
+        "answers": [
+            "It looks good; you can start screwing."
+        ]
+    },
+    {
+        "toy_id": "a02",
+        "sequence_id": "nusar-2021_action_both_9013-a02_9013_user_id_2021-02-02_130807",
+        "video": {
+            "start": 132.2,
+            "end": 230.6
+        },
+        "question": "Was I supposed to unscrew the cabin and body from the chassis?",
+        "answers": [
+            "No, you should not have detached both the cabin and the body from the chassis.",
+            "No, you don't need to unscrew the cabin and the body."
+        ]
+    },
+    {
+        "toy_id": "a18",
+        "sequence_id": "nusar-2021_action_both_9022-a18_9022_user_id_2021-02-03_112259",
+        "video": {
+            "start": 260.26666666666665,
+            "end": 442.3333333333333
+        },
+        "question": "What\u2019s the next part I should attach after the bumper?",
+        "answers": [
+            "You can now attach the fire extinguisher to the water tank.",
+            "Attach the fire extinguisher to the water tank.",
+            "You can pick up the doors and attach them to the water tank.",
+            "Attach the doors to the water tank."
+        ]
+    },
+    {
+        "toy_id": "c07b",
+        "sequence_id": "nusar-2021_action_both_9035-c07b_9035_user_id_2021-02-18_154148",
+        "video": {
+            "start": 184.7,
+            "end": 277.76666666666665
+        },
+        "question": "Am I supposed to secure this part now or later?",
+        "answers": [
+            "Secure it now before moving on."
+        ]
+    },
+    {
+        "toy_id": "a07",
+        "sequence_id": "nusar-2021_action_both_9026-a07_9026_user_id_2021-02-03_162446",
+        "video": {
+            "start": 172.13333333333333,
+            "end": 432.56666666666666
+        },
+        "question": "Did I put the wheels on at the correct time during assembly?",
+        "answers": [
+            "Yes, the wheels were placed at the correct time."
+        ]
+    },
+    {
+        "toy_id": "b04c",
+        "sequence_id": "nusar-2021_action_both_9055-b04c_9055_user_id_2021-02-24_103545",
+        "video": {
+            "start": 115.63333333333334,
+            "end": 160.6
+        },
+        "question": "What part comes after the interior and chassis?",
+        "answers": [
+            "Attach the cabin to the interior.",
+            "Attach the roof to the cabin.",
+            "Attach the bumper to the body can be done next.",
+            "You can do the wheels next.",
+            "Attach the wheel to the chassis.",
+            "Attach the bumper to the body."
+        ]
+    },
+    {
+        "toy_id": "b02b",
+        "sequence_id": "nusar-2021_action_both_9034-b02b_9034_user_id_2021-02-23_172457",
+        "video": {
+            "start": 111.56666666666666,
+            "end": 222.4
+        },
+        "question": "Should I have finished all the track attachments before working on the boom?",
+        "answers": [
+            "No, it's okay to work on the boom now."
+        ]
+    },
+    {
+        "toy_id": "b06a",
+        "sequence_id": "nusar-2021_action_both_9044-b06a_9044_user_id_2021-02-19_092710",
+        "video": {
+            "start": 154.83333333333334,
+            "end": 204.56666666666666
+        },
+        "question": "Where exactly does the tilter go on the interior?",
+        "answers": [
+            "It should be placed closer to the rear of the interior.",
+            "It should align with the rear of the interior."
+        ]
+    },
+    {
+        "toy_id": "b05b",
+        "sequence_id": "nusar-2021_action_both_9066-b05b_9066_user_id_2021-02-17_154153",
+        "video": {
+            "start": 240.63333333333333,
+            "end": 474.6
+        },
+        "question": "What\u2019s missing before I attach the arm?",
+        "answers": [
+            "You need to ensure if the hook is secured with the screw on to the arm before attaching the arm to the boom.",
+            "You didn't miss any steps."
+        ]
+    },
+    {
+        "toy_id": "c08b",
+        "sequence_id": "nusar-2021_action_both_9075-c08b_9075_user_id_2021-02-12_101609",
+        "video": {
+            "start": 184.03333333333333,
+            "end": 244.56666666666666
+        },
+        "question": "Where exactly should the cabin go?",
+        "answers": [
+            "The cabin should be placed on the front of the chassis, but, to fix the order, you should detach the container first and attach the interior and cabin first, then the container."
+        ]
+    },
+    {
+        "toy_id": "c13a",
+        "sequence_id": "nusar-2021_action_both_9086-c13a_9086_user_id_2021-02-16_152408",
+        "video": {
+            "start": 217.86666666666667,
+            "end": 264.06666666666666
+        },
+        "question": "Am I supposed to snap the roller in or do I need screws here?",
+        "answers": [
+            "Just snap it in; no screws needed.",
+            "No screws here, but make sure it clicks securely.",
+            "This step doesn't require screws\u2014just align and push it in."
+        ]
+    },
+    {
+        "toy_id": "a18",
+        "sequence_id": "nusar-2021_action_both_9054-a18_9054_user_id_2021-02-08_153620",
+        "video": {
+            "start": 217.06666666666666,
+            "end": 419.23333333333335
+        },
+        "question": "Am I supposed to screw the side door again, or is it done now?",
+        "answers": [
+            "It\u2019s done; you can move on."
+        ]
+    },
+    {
+        "toy_id": "c06b",
+        "sequence_id": "nusar-2021_action_both_9062-c06b_9062_user_id_2021-02-09_154158",
+        "video": {
+            "start": 311.5,
+            "end": 510.53333333333336
+        },
+        "question": "Am I supposed to use the screwdriver immediately after positioning the mixer stand?",
+        "answers": [
+            "Yes, use the screwdriver right after positioning it."
+        ]
+    },
+    {
+        "toy_id": "b04c",
+        "sequence_id": "nusar-2021_action_both_9084-b04c_9084_user_id_2021-02-25_144254",
+        "video": {
+            "start": 111.36666666666666,
+            "end": 275.96666666666664
+        },
+        "question": "Am I supposed to attach the jackhammer arm before securing the arm connector?",
+        "answers": [
+            "You can do either step before. The order you followed is fine.",
+            "No, the two steps can be done in any order."
+        ]
+    },
+    {
+        "toy_id": "c09a",
+        "sequence_id": "nusar-2021_action_both_9056-c09a_9056_user_id_2021-02-22_140419",
+        "video": {
+            "start": 178.63333333333333,
+            "end": 245.26666666666668
+        },
+        "question": "Am I supposed to screw the cabin to the interior?",
+        "answers": [
+            "No, the cabin does not require screws; it just snaps in place.",
+            "No, you\u2019re done with the cabin\u2014it\u2019s a no-screw step."
+        ]
+    },
+    {
+        "toy_id": "a29",
+        "sequence_id": "nusar-2021_action_both_9021-a29_9021_user_id_2021-02-23_094113",
+        "video": {
+            "start": 123.73333333333333,
+            "end": 128.9
+        },
+        "question": "Did I miss a step before positioning the interior?",
+        "answers": [
+            "No, you're good so far."
+        ]
+    },
+    {
+        "toy_id": "c10b",
+        "sequence_id": "nusar-2021_action_both_9046-c10b_9046_user_id_2021-02-22_111419",
+        "video": {
+            "start": 126.83333333333333,
+            "end": 134.26666666666668
+        },
+        "question": "What should I do next after putting down the dump bed?",
+        "answers": [
+            "You can attach the cylinders to the dump bed.",
+            "You can attach the wheels to the chassis.",
+            "You can attach the light to the roof.",
+            "You can attach the sound module to the chassis."
+        ]
+    },
+    {
+        "toy_id": "c13f",
+        "sequence_id": "nusar-2021_action_both_9041-c13f_9041_user_id_2021-02-05_103116",
+        "video": {
+            "start": 260.76666666666665,
+            "end": 456.7
+        },
+        "question": "Did I miss any steps before starting with the rear base?",
+        "answers": [
+            "No, you didn\u2019t miss any steps; you\u2019re good to continue."
+        ]
+    },
+    {
+        "toy_id": "b03b",
+        "sequence_id": "nusar-2021_action_both_9043-b03b_9043_user_id_2021-02-05_133926",
+        "video": {
+            "start": 154.3,
+            "end": 196.66666666666666
+        },
+        "question": "Is there a step I missed before attaching the water tank?",
+        "answers": [
+            "No, you're on the right step, just focus on positioning it correctly."
+        ]
+    },
+    {
+        "toy_id": "a29",
+        "sequence_id": "nusar-2021_action_both_9021-a29_9021_user_id_2021-02-23_094113",
+        "video": {
+            "start": 123.73333333333333,
+            "end": 125.03333333333333
+        },
+        "question": "Where exactly should the interior go after this?",
+        "answers": [
+            "You should attach the interior to the chassis after this.",
+            "You should first attach the dashboard to the interior and then attach the interior to the chassis."
+        ]
+    },
+    {
+        "toy_id": "b06a",
+        "sequence_id": "nusar-2021_action_both_9044-b06a_9044_user_id_2021-02-19_092710",
+        "video": {
+            "start": 154.83333333333334,
+            "end": 203.06666666666666
+        },
+        "question": "How should I position the tilter correctly this time?",
+        "answers": [
+            "You should position the tilter at the rear end of the interior."
+        ]
+    },
+    {
+        "toy_id": "c06b",
+        "sequence_id": "nusar-2021_action_both_9025-c06b_9025_user_id_2021-02-03_160657",
+        "video": {
+            "start": 328.26666666666665,
+            "end": 539.0333333333333
+        },
+        "question": "Did I position the screw on the first wheel correctly?",
+        "answers": [
+            "Yes, it looks fine, but double-check its alignment before tightening."
+        ]
+    },
+    {
+        "toy_id": "b04c",
+        "sequence_id": "nusar-2021_action_both_9034-b04c_9034_user_id_2021-02-23_173159",
+        "video": {
+            "start": 110.66666666666667,
+            "end": 222.5
+        },
+        "question": "Should I attach the arm connector to the chassis now or do something else first?",
+        "answers": [
+            "You can attach the arm connector to the chassis now.",
+            "You may focus on attaching the roof to the cabin and come back to the arm connector later."
+        ]
+    },
+    {
+        "toy_id": "c08c",
+        "sequence_id": "nusar-2021_action_both_9035-c08c_9035_user_id_2021-02-18_163203",
+        "video": {
+            "start": 159.23333333333332,
+            "end": 276.43333333333334
+        },
+        "question": "Should I attach the rear door now or is there something else I need to do first?",
+        "answers": [
+            "Yes, attach the rear door next.",
+            "Yes, please make sure that the rear door has already been attached to the transport cabin."
+        ]
+    },
+    {
+        "toy_id": "c12a",
+        "sequence_id": "nusar-2021_action_both_9073-c12a_9073_user_id_2021-02-11_141222",
+        "video": {
+            "start": 216.46666666666667,
+            "end": 512.2666666666667
+        },
+        "question": "Should I attach the turntable base now or do the wheels first?",
+        "answers": [
+            "You can do either step first.",
+            "You can attach them in any order at this point."
+        ]
+    },
+    {
+        "toy_id": "a12",
+        "sequence_id": "nusar-2021_action_both_9014-a12_9014_user_id_2021-02-02_141945",
+        "video": {
+            "start": 206.8,
+            "end": 288.53333333333336
+        },
+        "question": "Am I ready to move on to the next part?",
+        "answers": [
+            "You should not forget to screw the bumper to the chassis.",
+            "You may move on to the wheels and come back to screw the bumper in.",
+            "You still need to secure the bumper with screws."
+        ]
+    },
+    {
+        "toy_id": "c08c",
+        "sequence_id": "nusar-2021_action_both_9062-c08c_9062_user_id_2021-02-09_160823",
+        "video": {
+            "start": 299.96666666666664,
+            "end": 436.93333333333334
+        },
+        "question": "Should I have added the sound module already?",
+        "answers": [
+            "Yes, it should have been attached before the cabin."
+        ]
+    },
+    {
+        "toy_id": "c09b",
+        "sequence_id": "nusar-2021_action_both_9082-c09b_9082_user_id_2021-02-16_134010",
+        "video": {
+            "start": 102.93333333333334,
+            "end": 175.2
+        },
+        "question": "What part of the roof should I position this on?",
+        "answers": [
+            "The flat section near the front."
+        ]
+    },
+    {
+        "toy_id": "b06c",
+        "sequence_id": "nusar-2021_action_both_9045-b06c_9045_user_id_2021-02-05_173118",
+        "video": {
+            "start": 187.2,
+            "end": 276.1333333333333
+        },
+        "question": "Did I already secure the fourth wheel completely?",
+        "answers": [
+            "No, you still need to tighten it fully."
+        ]
+    },
+    {
+        "toy_id": "c08b",
+        "sequence_id": "nusar-2021_action_both_9034-c08b_9034_user_id_2021-02-04_161726",
+        "video": {
+            "start": 150.33333333333334,
+            "end": 215.43333333333334
+        },
+        "question": "What should I have done before trying to attach the bumper?",
+        "answers": [
+            "The interior and the cabin should be placed onto the chassis first."
+        ]
+    },
+    {
+        "toy_id": "c09c",
+        "sequence_id": "nusar-2021_action_both_9023-c09c_9023_user_id_2021-02-03_133550",
+        "video": {
+            "start": 206.16666666666666,
+            "end": 233.06666666666666
+        },
+        "question": "Is the cabin supposed to go on top of the interior?",
+        "answers": [
+            "Yes, but only after the interior is properly attached to the chassis."
+        ]
+    },
+    {
+        "toy_id": "b06a",
+        "sequence_id": "nusar-2021_action_both_9083-b06a_9083_user_id_2021-02-16_113603",
+        "video": {
+            "start": 134.93333333333334,
+            "end": 323.1333333333333
+        },
+        "question": "What should I do if I\u2019m not sure the dump bed is aligned properly?",
+        "answers": [
+            "The orientation is wrong: rotate it 180 degrees."
+        ]
+    },
+    {
+        "toy_id": "a13",
+        "sequence_id": "nusar-2021_action_both_9076-a13_9076_user_id_2021-02-12_104816",
+        "video": {
+            "start": 352.0,
+            "end": 370.76666666666665
+        },
+        "question": "Is the cabin positioned correctly for screwing?",
+        "answers": [
+            "Yes, it looks aligned and ready."
+        ]
+    },
+    {
+        "toy_id": "b06b",
+        "sequence_id": "nusar-2021_action_both_9011-b06b_9011_user_id_2021-02-01_154253",
+        "video": {
+            "start": 94.43333333333334,
+            "end": 192.96666666666667
+        },
+        "question": "Is the screw supposed to go through the turntable top and into the chassis?",
+        "answers": [
+            "Yes, it connects both parts securely."
+        ]
+    },
+    {
+        "toy_id": "b05a",
+        "sequence_id": "nusar-2021_action_both_9065-b05a_9095_user_id_2021-02-17_122813",
+        "video": {
+            "start": 202.7,
+            "end": 299.1
+        },
+        "question": "What should I do next after removing the bucket?",
+        "answers": [
+            "Start by putting the bucket back on the arm.",
+            "You should re-attach the bucket to the arm.",
+            "You should reattach the bucket and move on."
+        ]
+    },
+    {
+        "toy_id": "c08a",
+        "sequence_id": "nusar-2021_action_both_9051-c08a_9051_user_id_2021-02-22_115717",
+        "video": {
+            "start": 152.63333333333333,
+            "end": 260.23333333333335
+        },
+        "question": "What should I attach next after the interior?",
+        "answers": [
+            "Attach the cabin to the interior.",
+            "Or, you could attach a wheel to the chassis.",
+            "You can also attach the roof to the cabin next.",
+            "You may attach the light to the roof."
+        ]
+    },
+    {
+        "toy_id": "b04c",
+        "sequence_id": "nusar-2021_action_both_9084-b04c_9084_user_id_2021-02-25_144254",
+        "video": {
+            "start": 111.36666666666666,
+            "end": 242.63333333333333
+        },
+        "question": "Did I position the boom on the arm correctly?",
+        "answers": [
+            "Yes, you did."
+        ]
+    },
+    {
+        "toy_id": "c08a",
+        "sequence_id": "nusar-2021_action_both_9064-c08a_9064_user_id_2021-02-22_164245",
+        "video": {
+            "start": 175.6,
+            "end": 224.0
+        },
+        "question": "Should I finish attaching the base to the chassis before moving on?",
+        "answers": [
+            "No, you should have done many important steps before attaching the base and those include attaching the interior to the chassis and attaching the cabin to the interior."
+        ]
+    },
+    {
+        "toy_id": "b08d",
+        "sequence_id": "nusar-2021_action_both_9061-b08d_9061_user_id_2021-02-09_141038",
+        "video": {
+            "start": 149.3,
+            "end": 175.93333333333334
+        },
+        "question": "Did I miss a step after positioning the screw on the chassis?",
+        "answers": [
+            "No, you\u2019re almost done; just secure the screw now."
+        ]
+    },
+    {
+        "toy_id": "c04a",
+        "sequence_id": "nusar-2021_action_both_9015-c04a_9015_user_id_2021-02-02_164257",
+        "video": {
+            "start": 171.46666666666667,
+            "end": 244.1
+        },
+        "question": "When I attached the cabin to the chassis, was that the right step to do at that time?",
+        "answers": [
+            "No, it was incorrect because the cabin needs to be on the interior, not the chassis.",
+            "No, you should attach interior to chassis first."
+        ]
+    },
+    {
+        "toy_id": "c11a",
+        "sequence_id": "nusar-2021_action_both_9054-c11a_9054_user_id_2021-02-08_162610",
+        "video": {
+            "start": 162.53333333333333,
+            "end": 182.46666666666667
+        },
+        "question": "Did I attach the body and chassis in the right order?",
+        "answers": [
+            "No, the body should not be placed directly onto the chassis. The interior should be attached to the chassis first, and then the body placed over the interior.",
+            "No, you should attach the interior to chassis before the body."
+        ]
+    },
+    {
+        "toy_id": "c13a",
+        "sequence_id": "nusar-2021_action_both_9086-c13a_9086_user_id_2021-02-16_152408",
+        "video": {
+            "start": 217.86666666666667,
+            "end": 378.4
+        },
+        "question": "Was I supposed to rotate the toy before attaching the step?",
+        "answers": [
+            "Yes, you were supposed to rotate the chassis so that the steps were attached in the opposite sides.",
+            "Yes, then you could have attached the steps on the correct sides. Currently, they are in the opposite sides from the correct sides."
+        ]
+    },
+    {
+        "toy_id": "a29",
+        "sequence_id": "nusar-2021_action_both_9021-a29_9021_user_id_2021-02-23_094113",
+        "video": {
+            "start": 123.73333333333333,
+            "end": 200.06666666666666
+        },
+        "question": "Should I have done something before positioning the body?",
+        "answers": [
+            "Nothing else is needed because you have followed the correct procedure so far.",
+            "No, you are on track."
+        ]
+    },
+    {
+        "toy_id": "b04c",
+        "sequence_id": "nusar-2021_action_both_9034-b04c_9034_user_id_2021-02-04_155013",
+        "video": {
+            "start": 175.43333333333334,
+            "end": 279.6333333333333
+        },
+        "question": "Should I have done anything else before picking up the screw?",
+        "answers": [
+            "No, you\u2019re on track."
+        ]
+    },
+    {
+        "toy_id": "c03d",
+        "sequence_id": "nusar-2021_action_both_9021-c03d_9021_user_id_2021-02-23_100036",
+        "video": {
+            "start": 104.43333333333334,
+            "end": 150.86666666666667
+        },
+        "question": "Am I positioning the front body correctly, or do I need to rotate it?",
+        "answers": [
+            "Yes, it looks fine\u2014keep going like that.",
+            "Yes, you positioned the front body correctly."
+        ]
+    },
+    {
+        "toy_id": "b02a",
+        "sequence_id": "nusar-2021_action_both_9014-b02a_9014_user_id_2021-02-02_143628",
+        "video": {
+            "start": 202.16666666666666,
+            "end": 244.16666666666666
+        },
+        "question": "Does the cabin need to face a specific direction when attaching the roof?",
+        "answers": [
+            "Yes, make sure the front of the roof aligns with the windshield side of the cabin.",
+            "Yes, make sure the roof light is facing forward, in the same direction as the cabin."
+        ]
+    },
+    {
+        "toy_id": "a29",
+        "sequence_id": "nusar-2021_action_both_9021-a29_9021_user_id_2021-02-03_105247",
+        "video": {
+            "start": 202.0,
+            "end": 260.76666666666665
+        },
+        "question": "What step comes next after positioning the back seat?",
+        "answers": [
+            "You still need to screw it to the chassis.",
+            "You can attach the other door and the roof. Make sure to secure the back seat."
+        ]
+    },
+    {
+        "toy_id": "c04d",
+        "sequence_id": "nusar-2021_action_both_9031-c04d_9031_user_id_2021-02-04_104130",
+        "video": {
+            "start": 222.53333333333333,
+            "end": 386.3666666666667
+        },
+        "question": "What\u2019s the correct way to finish attaching the bulldozer arm?",
+        "answers": [
+            "Attach the arm to the connector, then secure it with screws.",
+            "You are on the right track."
+        ]
+    },
+    {
+        "toy_id": "a20",
+        "sequence_id": "nusar-2021_action_both_9076-a20_9076_user_id_2021-02-12_110652",
+        "video": {
+            "start": 267.1,
+            "end": 375.5
+        },
+        "question": "Did I pick up the right screw for the roof?",
+        "answers": [
+            "Yes, that\u2019s the correct one."
+        ]
+    },
+    {
+        "toy_id": "b05c",
+        "sequence_id": "nusar-2021_action_both_9084-b05c_9084_user_id_2021-02-25_152453",
+        "video": {
+            "start": 156.1,
+            "end": 318.8666666666667
+        },
+        "question": "Am I supposed to tighten the nut here or somewhere else?",
+        "answers": [
+            "Yes, tighten it here."
+        ]
+    },
+    {
+        "toy_id": "b05d",
+        "sequence_id": "nusar-2021_action_both_9045-b05d_9045_user_id_2021-02-19_103439",
+        "video": {
+            "start": 191.4,
+            "end": 338.0
+        },
+        "question": "What\u2019s the next step after I spin the wheel?",
+        "answers": [
+            "You need to attach the second wheel.",
+            "You can attach the rest of the wheels."
+        ]
+    },
+    {
+        "toy_id": "a29",
+        "sequence_id": "nusar-2021_action_both_9021-a29_9021_user_id_2021-02-03_105247",
+        "video": {
+            "start": 202.0,
+            "end": 314.3333333333333
+        },
+        "question": "Should I have completed attaching the back seat before starting on the roof?",
+        "answers": [
+            "No, you can work on the roof while finishing the back seat."
+        ]
+    },
+    {
+        "toy_id": "c10a",
+        "sequence_id": "nusar-2021_action_both_9072-c10a_9072_user_id_2021-02-11_112415",
+        "video": {
+            "start": 149.76666666666668,
+            "end": 183.53333333333333
+        },
+        "question": "Did I position the second wheel correctly before screwing it in?",
+        "answers": [
+            "Yes, it looks fine."
+        ]
+    },
+    {
+        "toy_id": "b06c",
+        "sequence_id": "nusar-2021_action_both_9022-b06c_9022_user_id_2021-02-23_112257",
+        "video": {
+            "start": 121.9,
+            "end": 226.3
+        },
+        "question": "Should I have attached the interior to the chassis before working on the wheels?",
+        "answers": [
+            "No, you can attach either step before. They are not dependent.",
+            "You can attach them in any order."
+        ]
+    },
+    {
+        "toy_id": "b02b",
+        "sequence_id": "nusar-2021_action_both_9034-b02b_9034_user_id_2021-02-04_153734",
+        "video": {
+            "start": 321.4,
+            "end": 426.6
+        },
+        "question": "What should I do after attaching the rear body?",
+        "answers": [
+            "You may attach the track to the the chassis.",
+            "You may attach the arm to the boom next.",
+            "You can attach the arm to the clamp.",
+            "You may attach the boom parts.",
+            "You can attach the track to chassis",
+            "You can attach cabin to interior",
+            "You can attach boom to interior",
+            "You can attach engine cover to body"
+        ]
+    },
+    {
+        "toy_id": "c04a",
+        "sequence_id": "nusar-2021_action_both_9073-c04a_9073_user_id_2021-02-11_142611",
+        "video": {
+            "start": 184.6,
+            "end": 1027.5333333333333
+        },
+        "question": "Did I skip any important steps before attaching the bumper?",
+        "answers": [
+            "No, you did not skip any important steps before attaching the bumper."
+        ]
+    },
+    {
+        "toy_id": "b05c",
+        "sequence_id": "nusar-2021_action_both_9084-b05c_9084_user_id_2021-02-25_152453",
+        "video": {
+            "start": 156.1,
+            "end": 274.26666666666665
+        },
+        "question": "Did I forget to attach something after the mixer stand?",
+        "answers": [
+            "No, you are on track.",
+            "No, you did not forget anything. You can attach the mixer to mixer stand."
+        ]
+    },
+    {
+        "toy_id": "c13f",
+        "sequence_id": "nusar-2021_action_both_9082-c13f_9082_user_id_2021-02-16_140937",
+        "video": {
+            "start": 131.7,
+            "end": 139.26666666666668
+        },
+        "question": "Where exactly should I position the step?",
+        "answers": [
+            "Place it in the middle of the chassis.",
+            "Place them in the middle of the chassis along the edge.",
+            "Locate them in the middle of the chassis. Make sure the wider sides to the front of the toy."
+        ]
+    },
+    {
+        "toy_id": "a23",
+        "sequence_id": "nusar-2021_action_both_9045-a23_9045_user_id_2021-02-19_102455",
+        "video": {
+            "start": 173.03333333333333,
+            "end": 296.8333333333333
+        },
+        "question": "Did I miss any screws earlier?",
+        "answers": [
+            "No, you used all the screws correctly."
+        ]
+    },
+    {
+        "toy_id": "a09",
+        "sequence_id": "nusar-2021_action_both_9044-a09_9044_user_id_2021-02-05_155544",
+        "video": {
+            "start": 210.83333333333334,
+            "end": 225.93333333333334
+        },
+        "question": "Is it okay to attach the cabin now?",
+        "answers": [
+            "No, you need to attach the interior to the chassis first.",
+            "Not yet, the interior has to be in place before the cabin."
+        ]
+    },
+    {
+        "toy_id": "c09c",
+        "sequence_id": "nusar-2021_action_both_9023-c09c_9023_user_id_2021-02-03_133550",
+        "video": {
+            "start": 206.16666666666666,
+            "end": 237.13333333333333
+        },
+        "question": "Did I mess up the order when I attached the transport cabin earlier?",
+        "answers": [
+            "Yes, you should attach interior and cabin before the transport cabin."
+        ]
+    },
+    {
+        "toy_id": "c08b",
+        "sequence_id": "nusar-2021_action_both_9075-c08b_9075_user_id_2021-02-12_101609",
+        "video": {
+            "start": 184.03333333333333,
+            "end": 224.26666666666668
+        },
+        "question": "Did I mess up the order, or is it fine to attach the container now?",
+        "answers": [
+            "Yes, it is required that you attach the cabin to the chassis with the interior before the the container.",
+            "Yes, you need to attach the interior and cabin before attaching the container."
+        ]
+    },
+    {
+        "toy_id": "b04d",
+        "sequence_id": "nusar-2021_action_both_9081-b04d_9081_user_id_2021-02-12_160020",
+        "video": {
+            "start": 72.86666666666666,
+            "end": 137.43333333333334
+        },
+        "question": "What should I have done before attaching the arm connector to the chassis?",
+        "answers": [
+            "You should first attach the cabin to the chassis with the interior before you can attach the arm connector to the chassis.",
+            "You need to attach interior and cabin before the arm connector."
+        ]
+    },
+    {
+        "toy_id": "b08a",
+        "sequence_id": "nusar-2021_action_both_9056-b08a_9056_user_id_2021-02-22_141934",
+        "video": {
+            "start": 231.5,
+            "end": 398.5
+        },
+        "question": "Is the cabin positioned correctly on the interior?",
+        "answers": [
+            "Yes, it looks aligned properly."
+        ]
+    },
+    {
+        "toy_id": "c02a",
+        "sequence_id": "nusar-2021_action_both_9033-c02a_9033_user_id_2021-02-18_143949",
+        "video": {
+            "start": 191.23333333333332,
+            "end": 218.43333333333334
+        },
+        "question": "Was it wrong to detach the interior from the chassis?",
+        "answers": [
+            "No, it was correct to detach the interior as it was in the wrong location on the chassis."
+        ]
+    },
+    {
+        "toy_id": "b06a",
+        "sequence_id": "nusar-2021_action_both_9052-b06a_9052_user_id_2021-02-08_110734",
+        "video": {
+            "start": 143.83333333333334,
+            "end": 209.9
+        },
+        "question": "Did I miss any steps before attempting to screw the dump bed?",
+        "answers": [
+            "No, you did everything in the right order so far."
+        ]
+    },
+    {
+        "toy_id": "c13f",
+        "sequence_id": "nusar-2021_action_both_9041-c13f_9041_user_id_2021-02-05_103116",
+        "video": {
+            "start": 260.76666666666665,
+            "end": 306.43333333333334
+        },
+        "question": "Should I finish attaching the bumper before moving on to another part?",
+        "answers": [
+            "Yes, you may want to finish the bumper parts.",
+            "Yes, or you can move on to the other parts like the step, cabin, and wheels, then come back to finish the bumper."
+        ]
+    },
+    {
+        "toy_id": "c02a",
+        "sequence_id": "nusar-2021_action_both_9061-c02a_9061_user_id_2021-02-09_141537",
+        "video": {
+            "start": 270.03333333333336,
+            "end": 399.06666666666666
+        },
+        "question": "What should I have done differently before screwing the body to the chassis?",
+        "answers": [
+            "You need to attach the cabin to the interior first.",
+            "You should attach the cabin to the interior first."
+        ]
+    },
+    {
+        "toy_id": "a19",
+        "sequence_id": "nusar-2021_action_both_9056-a19_9056_user_id_2021-02-22_141312",
+        "video": {
+            "start": 134.73333333333332,
+            "end": 207.8
+        },
+        "question": "Should I finish screwing the bumper or move to the ladder basket?",
+        "answers": [
+            "You can finish the bumper, then move on to the ladder basket.",
+            "You may switch to the ladder basket and come back to finish the bumper.",
+            "Either part can be finished first."
+        ]
+    },
+    {
+        "toy_id": "b05d",
+        "sequence_id": "nusar-2021_action_both_9045-b05d_9045_user_id_2021-02-05_171423",
+        "video": {
+            "start": 284.2,
+            "end": 575.0
+        },
+        "question": "Should I position the nut before tightening the screw on the lid?",
+        "answers": [
+            "Yes, you should use the screws and nuts when securing the lid."
+        ]
+    },
+    {
+        "toy_id": "c09c",
+        "sequence_id": "nusar-2021_action_both_9042-c09c_9042_user_id_2021-02-17_102611",
+        "video": {
+            "start": 245.13333333333333,
+            "end": 288.4
+        },
+        "question": "Did I put the bumper on too early?",
+        "answers": [
+            "Yes, the bumper should be attached later and onto the cabin, not the chassis.",
+            "Yes, you should attach the interior and cabin first, then attach the bumper on the cabin."
+        ]
+    },
+    {
+        "toy_id": "c13a",
+        "sequence_id": "nusar-2021_action_both_9081-c13a_9081_user_id_2021-02-12_162453",
+        "video": {
+            "start": 124.86666666666666,
+            "end": 215.46666666666667
+        },
+        "question": "Did I put the roller on at the wrong time?",
+        "answers": [
+            "Yes, it should be put after you attached the push frame to the chassis.",
+            "You should attach the push frame to the chassis first."
+        ]
+    },
+    {
+        "toy_id": "a08",
+        "sequence_id": "nusar-2021_action_both_9015-a08_9015_user_id_2021-02-02_155549",
+        "video": {
+            "start": 188.63333333333333,
+            "end": 202.0
+        },
+        "question": "Which part of the bumper should I focus on next?",
+        "answers": [
+            "Make sure to use the nut to secure the bumper to the grill.",
+            "Use the nut to secure it."
+        ]
+    },
+    {
+        "toy_id": "c07a",
+        "sequence_id": "nusar-2021_action_both_9062-c07a_9062_user_id_2021-02-09_155212",
+        "video": {
+            "start": 225.16666666666666,
+            "end": 434.76666666666665
+        },
+        "question": "Am I supposed to detach parts like the body or bumper after attaching them?",
+        "answers": [
+            "No, those steps were already correct. You should not have detached them."
+        ]
+    },
+    {
+        "toy_id": "a20",
+        "sequence_id": "nusar-2021_action_both_9064-a20_9064_user_id_2021-02-22_161628",
+        "video": {
+            "start": 110.53333333333333,
+            "end": 210.43333333333334
+        },
+        "question": "What do I do after positioning the rear roof?",
+        "answers": [
+            "Pick up a screw and secure it with the screwdriver.",
+            "The figurines are still lying there on the table. You are gonna need to put them inside the cabin."
+        ]
+    },
+    {
+        "toy_id": "c06d",
+        "sequence_id": "nusar-2021_action_both_9012-c06d_9012_user_id_2021-02-18_121034",
+        "video": {
+            "start": 121.66666666666667,
+            "end": 164.5
+        },
+        "question": "Am I missing any screws or steps before moving forward?",
+        "answers": [
+            "No, everything is in place so far."
+        ]
+    },
+    {
+        "toy_id": "a14",
+        "sequence_id": "nusar-2021_action_both_9021-a14_9021_user_id_2021-02-03_100733",
+        "video": {
+            "start": 327.8666666666667,
+            "end": 600.4
+        },
+        "question": "Did I need to unscrew the cabin so many times?",
+        "answers": [
+            "You did the steps in the wrong order previously by attaching the base to the chassis before the cabin to the interior. That's why you attached and detached the base and the cabin multiple times.",
+            "No, you should have attached the interior and the cabin first before the base, and you did not need the screw on the back of the cabin."
+        ]
+    },
+    {
+        "toy_id": "b04d",
+        "sequence_id": "nusar-2021_action_both_9081-b04d_9081_user_id_2021-02-12_160020",
+        "video": {
+            "start": 72.86666666666666,
+            "end": 187.23333333333332
+        },
+        "question": "Did I miss any steps or attach something out of order earlier?",
+        "answers": [
+            "Yes, the arm connector was attached to the chassis before the interior, which was incorrect.",
+            "Yes, you should have attached the interior to the chassis before the arm connector.",
+            "Yes, you should have attached the cabin to the interior before attaching the body to the chassis.",
+            "Yes, you made mistakes of attaching the arm connector and the body to the chassis before the interior and the cabin, but you correctly fixed them."
+        ]
+    },
+    {
+        "toy_id": "c08b",
+        "sequence_id": "nusar-2021_action_both_9034-c08b_9034_user_id_2021-02-23_175357",
+        "video": {
+            "start": 124.23333333333333,
+            "end": 227.4
+        },
+        "question": "Should I pick up the screw now or reposition the bumper first?",
+        "answers": [
+            "Pick up the screw now.",
+            "The bumper position looks correct, so pick up the screw and secure the bumper to the cabin."
+        ]
+    },
+    {
+        "toy_id": "b05b",
+        "sequence_id": "nusar-2021_action_both_9044-b05b_9044_user_id_2021-02-05_163057",
+        "video": {
+            "start": 199.4,
+            "end": 205.93333333333334
+        },
+        "question": "Where exactly should the arm and hook align right now?",
+        "answers": [
+            "The arm should face outward, and the hook should lock into the groove on the side."
+        ]
+    },
+    {
+        "toy_id": "c09b",
+        "sequence_id": "nusar-2021_action_both_9084-c09b_9084_user_id_2021-02-25_140624",
+        "video": {
+            "start": 126.5,
+            "end": 186.1
+        },
+        "question": "Did I align the interior properly, or do I need to adjust it?",
+        "answers": [
+            "It\u2019s aligned perfectly; no adjustments needed."
+        ]
+    },
+    {
+        "toy_id": "a13",
+        "sequence_id": "nusar-2021_action_both_9076-a13_9076_user_id_2021-02-12_104816",
+        "video": {
+            "start": 352.0,
+            "end": 452.4
+        },
+        "question": "Did I attach the base to the chassis too early?",
+        "answers": [
+            "Yes, you need to attach the cabin to the interior first.",
+            "Yes, the base comes after the cabin is attached.",
+            "Yes, you shouled have left the cabin attached."
+        ]
+    },
+    {
+        "toy_id": "a16",
+        "sequence_id": "nusar-2021_action_both_9041-a16_9041_user_id_2021-02-05_095801",
+        "video": {
+            "start": 352.1,
+            "end": 456.3666666666667
+        },
+        "question": "Did I skip any steps, or am I doing this in the wrong order?",
+        "answers": [
+            "Yes, you should have attached the cabin to the interior before attaching the base to the chassis.",
+            "You should attach the cabin before the base."
+        ]
+    },
+    {
+        "toy_id": "c06b",
+        "sequence_id": "nusar-2021_action_both_9074-c06b_9074_user_id_2021-02-11_160509",
+        "video": {
+            "start": 150.23333333333332,
+            "end": 272.4
+        },
+        "question": "Was the sound module supposed to go on now?",
+        "answers": [
+            "No, remove the roof first, then attach the sound module.",
+            "No, the sound module should be attached before the roof."
+        ]
+    },
+    {
+        "toy_id": "a16",
+        "sequence_id": "nusar-2021_action_both_9041-a16_9041_user_id_2021-02-05_095801",
+        "video": {
+            "start": 352.1,
+            "end": 475.1333333333333
+        },
+        "question": "Is it okay to attach the roof to the cabin now?",
+        "answers": [
+            "Yes, that\u2019s the correct next step.",
+            "You can finish the bumper first, but it is okay to attach the roof now as well.",
+            "It would be smooth to attach the bumper first as you are in the middle."
+        ]
+    },
+    {
+        "toy_id": "b02b",
+        "sequence_id": "nusar-2021_action_both_9034-b02b_9034_user_id_2021-02-04_153734",
+        "video": {
+            "start": 321.4,
+            "end": 607.5666666666667
+        },
+        "question": "Did I need to detach the boom earlier?",
+        "answers": [
+            "Yes, you needed to detach the boom because you were trying to attach the boom in the wrong location."
+        ]
+    },
+    {
+        "toy_id": "c05a",
+        "sequence_id": "nusar-2021_action_both_9054-c05a_9054_user_id_2021-02-08_160931",
+        "video": {
+            "start": 301.7,
+            "end": 551.3
+        },
+        "question": "What should I have done before attaching the cabin to the rear body?",
+        "answers": [
+            "You did all the necessary steps correctly.",
+            "You are on track."
+        ]
+    },
+    {
+        "toy_id": "c12e",
+        "sequence_id": "nusar-2021_action_both_9053-c12e_9053_user_id_2021-02-08_142744",
+        "video": {
+            "start": 202.2,
+            "end": 208.03333333333333
+        },
+        "question": "Is the screw already in the correct position?",
+        "answers": [
+            "Yes, it looks fine\u2014just tighten it now."
+        ]
+    },
+    {
+        "toy_id": "c09a",
+        "sequence_id": "nusar-2021_action_both_9056-c09a_9056_user_id_2021-02-22_140419",
+        "video": {
+            "start": 178.63333333333333,
+            "end": 224.2
+        },
+        "question": "Should I have attached the base to the chassis after all the wheels were secured?",
+        "answers": [
+            "This step should have been done after attaching the interior to the chassis and the cabin to the interior.",
+            "You should attach interior and cabin before attaching base to chassis.",
+            "You can attach the base regardless of the status of wheels, but you should have attached the interior and the cabin before the base."
+        ]
+    },
+    {
+        "toy_id": "c02a",
+        "sequence_id": "nusar-2021_action_both_9084-c02a_9084_user_id_2021-02-25_140008",
+        "video": {
+            "start": 129.6,
+            "end": 154.9
+        },
+        "question": "What should I do after removing the cabin?",
+        "answers": [
+            "You should adjust the location of the interior and cabin, as it was incorrect before you detach them."
+        ]
+    },
+    {
+        "toy_id": "b05c",
+        "sequence_id": "nusar-2021_action_both_9042-b05c_9042_user_id_2021-02-05_115957",
+        "video": {
+            "start": 190.23333333333332,
+            "end": 265.8333333333333
+        },
+        "question": "Is the screw I placed on the bumper in the right spot?",
+        "answers": [
+            "Yes, it\u2019s in the correct hole."
+        ]
+    },
+    {
+        "toy_id": "b01a",
+        "sequence_id": "nusar-2021_action_both_9044-b01a_9044_user_id_2021-02-05_160818",
+        "video": {
+            "start": 172.9,
+            "end": 407.0
+        },
+        "question": "Where exactly should the nut be placed?",
+        "answers": [
+            "The nuts should be first attached to the arm with a screw and they go under the arm connector."
+        ]
+    },
+    {
+        "toy_id": "c03e",
+        "sequence_id": "nusar-2021_action_both_9045-c03e_9045_user_id_2021-02-19_122426",
+        "video": {
+            "start": 120.86666666666666,
+            "end": 142.86666666666667
+        },
+        "question": "Where exactly should the arm connector go?",
+        "answers": [
+            "It should be aligned with the front slot on the chassis."
+        ]
+    },
+    {
+        "toy_id": "b06d",
+        "sequence_id": "nusar-2021_action_both_9041-b06d_9041_user_id_2021-02-05_102410",
+        "video": {
+            "start": 192.53333333333333,
+            "end": 311.4
+        },
+        "question": "Did I pick up the right screw for the tilter?",
+        "answers": [
+            "Yes, that screw should work."
+        ]
+    },
+    {
+        "toy_id": "c07c",
+        "sequence_id": "nusar-2021_action_both_9041-c07c_9041_user_id_2021-02-05_104114",
+        "video": {
+            "start": 161.66666666666666,
+            "end": 271.03333333333336
+        },
+        "question": "What should I focus on after the roof is attached?",
+        "answers": [
+            "Nothing else, you\u2019ll be done once the roof is secure!"
+        ]
+    },
+    {
+        "toy_id": "a14",
+        "sequence_id": "nusar-2021_action_both_9021-a14_9021_user_id_2021-02-03_100733",
+        "video": {
+            "start": 327.8666666666667,
+            "end": 337.73333333333335
+        },
+        "question": "Is this the right screw to use here?",
+        "answers": [
+            "Yes, that's the correct one."
+        ]
+    },
+    {
+        "toy_id": "b05a",
+        "sequence_id": "nusar-2021_action_both_9043-b05a_9043_user_id_2021-02-05_134455",
+        "video": {
+            "start": 311.43333333333334,
+            "end": 539.2
+        },
+        "question": "Is the turntable base supposed to face this way?",
+        "answers": [
+            "No, rotate it 180 degrees.",
+            "No, roate it 180 degrees so that its protrusion is on the cabin side."
+        ]
+    },
+    {
+        "toy_id": "c09a",
+        "sequence_id": "nusar-2021_action_both_9064-c09a_9064_user_id_2021-02-22_165525",
+        "video": {
+            "start": 145.73333333333332,
+            "end": 315.7
+        },
+        "question": "Is the dump bed supposed to be connected to another part before I screw the cylinder?",
+        "answers": [
+            "Yes, it should be attached to the base first.",
+            "Yes, the dump bed must be secured to the base before the cylinder is added."
+        ]
+    },
+    {
+        "toy_id": "a24",
+        "sequence_id": "nusar-2021_action_both_9043-a24_9043_user_id_2021-02-05_133010",
+        "video": {
+            "start": 119.63333333333334,
+            "end": 241.6
+        },
+        "question": "Did I attach the body parts in the correct order?",
+        "answers": [
+            "No, you attached the front body and rear body before the rocker panel, which is the wrong order."
+        ]
+    },
+    {
+        "toy_id": "b05d",
+        "sequence_id": "nusar-2021_action_both_9023-b05d_9023_user_id_2021-02-03_134815",
+        "video": {
+            "start": 154.76666666666668,
+            "end": 176.63333333333333
+        },
+        "question": "Should I have used a screw for this step?",
+        "answers": [
+            "Yes, a screw is required for this step, but before that, the cabin should be attached to the interior.",
+            "You need a screw to secure the bumper but you should have attached the cabin first."
+        ]
+    },
+    {
+        "toy_id": "c03f",
+        "sequence_id": "nusar-2021_action_both_9011-c03f_9011_user_id_2021-02-01_160239",
+        "video": {
+            "start": 97.2,
+            "end": 142.36666666666667
+        },
+        "question": "Am I supposed to use a screw for the next step?",
+        "answers": [
+            "If you mean the fourth wheel, yes, you need a screw.",
+            "If you mean arm connector, cabin window, or the roller, no you do not need a screw.",
+            "If you mean the body, yes, you need a screw."
+        ]
+    },
+    {
+        "toy_id": "b06a",
+        "sequence_id": "nusar-2021_action_both_9066-b06a_9066_user_id_2021-02-17_155256",
+        "video": {
+            "start": 121.46666666666667,
+            "end": 229.03333333333333
+        },
+        "question": "Is this the right screw I\u2019m using for the tilter?",
+        "answers": [
+            "Yes, that\u2019s the correct one."
+        ]
+    },
+    {
+        "toy_id": "c08b",
+        "sequence_id": "nusar-2021_action_both_9034-c08b_9034_user_id_2021-02-23_175357",
+        "video": {
+            "start": 124.23333333333333,
+            "end": 141.0
+        },
+        "question": "What step should I have done before attaching the containers?",
+        "answers": [
+            "You should have attached the rear roof to the container before attaching the containers.",
+            "You should have attached the lid to the container before attaching the containers.",
+            "You should attach the lid and rear roof to one container before attaching container parts together."
+        ]
+    },
+    {
+        "toy_id": "c06d",
+        "sequence_id": "nusar-2021_action_both_9012-c06d_9012_user_id_2021-02-18_121034",
+        "video": {
+            "start": 121.66666666666667,
+            "end": 287.53333333333336
+        },
+        "question": "Where exactly should I place the screws on the roof?",
+        "answers": [
+            "In the pre-drilled holes near the corners.",
+            "In the holes one on each side end of the roof."
+        ]
+    },
+    {
+        "toy_id": "c12e",
+        "sequence_id": "nusar-2021_action_both_9033-c12e_9033_user_id_2021-02-18_150129",
+        "video": {
+            "start": 135.0,
+            "end": 312.26666666666665
+        },
+        "question": "What\u2019s the next step after attaching the roof?",
+        "answers": [
+            "Attach the light to the roof.",
+            "You can attach light to roof.",
+            "You can attach the wheels to the chassis."
+        ]
+    },
+    {
+        "toy_id": "a08",
+        "sequence_id": "nusar-2021_action_both_9044-a08_9044_user_id_2021-02-05_154403",
+        "video": {
+            "start": 177.56666666666666,
+            "end": 307.6
+        },
+        "question": "When attaching the cabin to the chassis, was I supposed to rotate the cabin first?",
+        "answers": [
+            "No, as the orientation was correct, you can secure the cabin with a screw from underneath the chassis."
+        ]
+    },
+    {
+        "toy_id": "a03",
+        "sequence_id": "nusar-2021_action_both_9074-a03_9074_user_id_2021-02-11_151600",
+        "video": {
+            "start": 112.3,
+            "end": 265.5
+        },
+        "question": "Where exactly should the screw go on the blade?",
+        "answers": [
+            "It needs to align with the hole on the blade and the track.",
+            "It needs to align with the hole on the blade and the hole in the center of the track."
+        ]
+    },
+    {
+        "toy_id": "b04c",
+        "sequence_id": "nusar-2021_action_both_9034-b04c_9034_user_id_2021-02-23_173159",
+        "video": {
+            "start": 110.66666666666667,
+            "end": 207.16666666666666
+        },
+        "question": "Was I supposed to attach the body before the arm connector?",
+        "answers": [
+            "You can attach them in any order, but you need to attach the boom to the arm connector before you attach the arm connector the chassis."
+        ]
+    },
+    {
+        "toy_id": "a26",
+        "sequence_id": "nusar-2021_action_both_9025-a26_9025_user_id_2021-02-18_101010",
+        "video": {
+            "start": 106.63333333333334,
+            "end": 222.36666666666667
+        },
+        "question": "Should I have positioned the interior differently before screwing it?",
+        "answers": [
+            "No, your positioning was correct."
+        ]
+    },
+    {
+        "toy_id": "c04d",
+        "sequence_id": "nusar-2021_action_both_9072-c04d_9072_user_id_2021-02-11_113148",
+        "video": {
+            "start": 142.53333333333333,
+            "end": 238.03333333333333
+        },
+        "question": "Am I attaching the bumper to the wrong part of the toy?",
+        "answers": [
+            "Yes, you should attach the bumper to the rear body, not on the top of the cabin."
+        ]
+    },
+    {
+        "toy_id": "a14",
+        "sequence_id": "nusar-2021_action_both_9021-a14_9021_user_id_2021-02-03_100733",
+        "video": {
+            "start": 327.8666666666667,
+            "end": 456.56666666666666
+        },
+        "question": "How should I have attached the cabin earlier?",
+        "answers": [
+            "You should have attached the cabin before the base."
+        ]
+    },
+    {
+        "toy_id": "b05b",
+        "sequence_id": "nusar-2021_action_both_9066-b05b_9066_user_id_2021-02-17_154153",
+        "video": {
+            "start": 240.63333333333333,
+            "end": 487.6
+        },
+        "question": "Am I supposed to connect the turntable top to the boom now?",
+        "answers": [
+            "You can connect the turntable top to the boom now"
+        ]
+    },
+    {
+        "toy_id": "a19",
+        "sequence_id": "nusar-2021_action_both_9023-a19_9023_user_id_2021-02-03_132936",
+        "video": {
+            "start": 157.8,
+            "end": 252.2
+        },
+        "question": "Should I attach the ladder basket now, or is there something else left?",
+        "answers": [
+            "Attach the ladder basket now; you're ready for it.",
+            "Yes, you can attach the ladder basket now.",
+            "You can attach the ladder basket now, or secure the cabin first."
+        ]
+    },
+    {
+        "toy_id": "c08c",
+        "sequence_id": "nusar-2021_action_both_9035-c08c_9035_user_id_2021-02-04_172543",
+        "video": {
+            "start": 249.0,
+            "end": 384.7
+        },
+        "question": "Does the transport cabin look correctly positioned, or should I adjust it?",
+        "answers": [
+            "It looks fine; you can proceed to screw it in."
+        ]
+    },
+    {
+        "toy_id": "a10",
+        "sequence_id": "nusar-2021_action_both_9082-a10_9082_user_id_2021-02-16_134840",
+        "video": {
+            "start": 180.53333333333333,
+            "end": 278.3666666666667
+        },
+        "question": "What should I have done before positioning the rear base?",
+        "answers": [
+            "You should have attached the steps first."
+        ]
+    },
+    {
+        "toy_id": "b05d",
+        "sequence_id": "nusar-2021_action_both_9023-b05d_9023_user_id_2021-02-03_134815",
+        "video": {
+            "start": 154.76666666666668,
+            "end": 174.33333333333334
+        },
+        "question": "Am I supposed to screw this here, or is it misplaced?",
+        "answers": [
+            "You should attach the cabin first, then you can attach the bumper with a screw."
+        ]
+    },
+    {
+        "toy_id": "c13a",
+        "sequence_id": "nusar-2021_action_both_9064-c13a_9064_user_id_2021-02-22_170304",
+        "video": {
+            "start": 149.1,
+            "end": 467.76666666666665
+        },
+        "question": "Where do the cabin and step go, and in what order?",
+        "answers": [
+            "You followed the correct order of attaching the steps first then the cabin, but the locations of the steps were wrong. Swap the locations so that the wider sides of the steps faces toward the front."
+        ]
+    },
+    {
+        "toy_id": "a28",
+        "sequence_id": "nusar-2021_action_both_9013-a28_9013_user_id_2021-02-02_134923",
+        "video": {
+            "start": 91.6,
+            "end": 214.43333333333334
+        },
+        "question": "Am I putting the engine cover in the correct orientation?",
+        "answers": [
+            "Yes, it looks good."
+        ]
+    },
+    {
+        "toy_id": "c12e",
+        "sequence_id": "nusar-2021_action_both_9074-c12e_9074_user_id_2021-02-11_155839",
+        "video": {
+            "start": 78.96666666666667,
+            "end": 80.83333333333333
+        },
+        "question": "Should I attach the second wheel here or somewhere else?",
+        "answers": [
+            "That's the correct side\u2014go ahead and attach it there.",
+            "You can attach the second wheel in any available spots."
+        ]
+    },
+    {
+        "toy_id": "c09c",
+        "sequence_id": "nusar-2021_action_both_9013-c09c_9013_user_id_2021-02-24_113951",
+        "video": {
+            "start": 189.56666666666666,
+            "end": 469.9
+        },
+        "question": "Why does the transport cabin keep detaching? Am I missing a step?",
+        "answers": [
+            "At first, you attached the transport cabin the wrong way around. Also, you should have screwed the transport cabin in place before attaching the rear roof.",
+            "Because you placed the trasport cabin in the wrong orientation and you attached the rear roof before secuting the transport cabin."
+        ]
+    },
+    {
+        "toy_id": "b01a",
+        "sequence_id": "nusar-2021_action_both_9044-b01a_9044_user_id_2021-02-19_085343",
+        "video": {
+            "start": 203.83333333333334,
+            "end": 762.7
+        },
+        "question": "What should I do next to finish assembling the toy?",
+        "answers": [
+            "You need to reattach the arm connector to the interior and secure it properly with the nut."
+        ]
+    },
+    {
+        "toy_id": "c03e",
+        "sequence_id": "nusar-2021_action_both_9053-c03e_9053_user_id_2021-02-08_135619",
+        "video": {
+            "start": 171.13333333333333,
+            "end": 353.96666666666664
+        },
+        "question": "Should I have detached the wheel earlier?",
+        "answers": [
+            "Yes, because you missed securing chassis parts with a screw, which was covered by one of the wheels."
+        ]
+    },
+    {
+        "toy_id": "c10b",
+        "sequence_id": "nusar-2021_action_both_9053-c10b_9053_user_id_2021-02-08_143830",
+        "video": {
+            "start": 213.96666666666667,
+            "end": 303.2
+        },
+        "question": "Is the bumper in the right place right now?",
+        "answers": [
+            "Yes, it\u2019s positioned correctly."
+        ]
+    },
+    {
+        "toy_id": "a03",
+        "sequence_id": "nusar-2021_action_both_9023-a03_9023_user_id_2021-02-03_131031",
+        "video": {
+            "start": 208.33333333333334,
+            "end": 365.03333333333336
+        },
+        "question": "Is it okay that I attached the blade before finishing the track?",
+        "answers": [
+            "No, the blade should be attached after the track is fully secured."
+        ]
+    },
+    {
+        "toy_id": "b01b",
+        "sequence_id": "nusar-2021_action_both_9063-b01b_9063_user_id_2021-02-17_092512",
+        "video": {
+            "start": 206.16666666666666,
+            "end": 523.7333333333333
+        },
+        "question": "Should I have removed the arm connector from the interior earlier?",
+        "answers": [
+            "You were not supposed to, but it was okay to adjudt the arms and nuts to fit to the interior."
+        ]
+    },
+    {
+        "toy_id": "c05a",
+        "sequence_id": "nusar-2021_action_both_9054-c05a_9054_user_id_2021-02-08_160931",
+        "video": {
+            "start": 301.7,
+            "end": 359.1333333333333
+        },
+        "question": "Why does the boom keep getting stuck when I try to position it?",
+        "answers": [
+            "Because the direction of the arm is incorrect: the straight side should be facing up."
+        ]
+    },
+    {
+        "toy_id": "c09b",
+        "sequence_id": "nusar-2021_action_both_9061-c09b_9061_user_id_2021-02-09_143132",
+        "video": {
+            "start": 215.26666666666668,
+            "end": 229.93333333333334
+        },
+        "question": "Is this the right spot for this part, or do I need to move it?",
+        "answers": [
+            "Yes, that's the correct spot."
+        ]
+    },
+    {
+        "toy_id": "b01a",
+        "sequence_id": "nusar-2021_action_both_9044-b01a_9044_user_id_2021-02-19_085343",
+        "video": {
+            "start": 203.83333333333334,
+            "end": 369.73333333333335
+        },
+        "question": "How do I know if I\u2019m positioning the screws correctly?",
+        "answers": [
+            "Check if the screw aligns with the hold on the roof."
+        ]
+    },
+    {
+        "toy_id": "a14",
+        "sequence_id": "nusar-2021_action_both_9054-a14_9054_user_id_2021-02-08_152449",
+        "video": {
+            "start": 278.5,
+            "end": 471.6333333333333
+        },
+        "question": "Is the transport cabin supposed to connect directly to the base, or does something go in between?",
+        "answers": [
+            "The door goes between the transport cabin and the base."
+        ]
+    },
+    {
+        "toy_id": "c09a",
+        "sequence_id": "nusar-2021_action_both_9064-c09a_9064_user_id_2021-02-22_165525",
+        "video": {
+            "start": 145.73333333333332,
+            "end": 236.0
+        },
+        "question": "Should I finish attaching the cylinder before moving on?",
+        "answers": [
+            "Yes, and you can attach the dump bed as well now.",
+            "You can move on to attaching the wheels or bumper."
+        ]
+    },
+    {
+        "toy_id": "c08a",
+        "sequence_id": "nusar-2021_action_both_9081-c08a_9081_user_id_2021-02-12_160626",
+        "video": {
+            "start": 137.26666666666668,
+            "end": 154.8
+        },
+        "question": "Can I attach the base to the chassis now?",
+        "answers": [
+            "No, you should attached the interior and the cabin to the chassis first.",
+            "No, you need to attach sound module, interior and cabin first."
+        ]
+    },
+    {
+        "toy_id": "b05c",
+        "sequence_id": "nusar-2021_action_both_9085-b05c_9085_user_id_2021-02-22_173439",
+        "video": {
+            "start": 126.9,
+            "end": 229.26666666666668
+        },
+        "question": "Was I supposed to detach the cabin from the chassis?",
+        "answers": [
+            "No, it was already correctly attached."
+        ]
+    },
+    {
+        "toy_id": "c04d",
+        "sequence_id": "nusar-2021_action_both_9031-c04d_9031_user_id_2021-02-23_163320",
+        "video": {
+            "start": 147.4,
+            "end": 212.03333333333333
+        },
+        "question": "Was I supposed to tighten all screws before moving to the next step?",
+        "answers": [
+            "Yes, you should have ensured all screws were fully tightened before continuing.",
+            "Yes, as all the steps so far are correct, you are supposed to tighten all screws up to this point."
+        ]
+    },
+    {
+        "toy_id": "a30",
+        "sequence_id": "nusar-2021_action_both_9064-a30_9064_user_id_2021-02-22_162122",
+        "video": {
+            "start": 166.4,
+            "end": 267.3333333333333
+        },
+        "question": "Why did I unscrew the dashboard earlier?",
+        "answers": [
+            "That was a mistake; the dashboard didn\u2019t need to be detached."
+        ]
+    },
+    {
+        "toy_id": "a29",
+        "sequence_id": "nusar-2021_action_both_9021-a29_9021_user_id_2021-02-03_105247",
+        "video": {
+            "start": 202.0,
+            "end": 379.9
+        },
+        "question": "Did I position the wheels correctly before screwing them in?",
+        "answers": [
+            "Yes, you positioned the wheels correctly.",
+            "Yes, you positioned them correctly."
+        ]
+    },
+    {
+        "toy_id": "a28",
+        "sequence_id": "nusar-2021_action_both_9013-a28_9013_user_id_2021-02-02_134923",
+        "video": {
+            "start": 91.6,
+            "end": 192.3
+        },
+        "question": "Should I reposition the spare wheel before screwing it in?",
+        "answers": [
+            "No, it looks fine as it is.",
+            "No, you do not need to reposition the spare wheel."
+        ]
+    },
+    {
+        "toy_id": "c11a",
+        "sequence_id": "nusar-2021_action_both_9054-c11a_9054_user_id_2021-02-08_162610",
+        "video": {
+            "start": 162.53333333333333,
+            "end": 617.8
+        },
+        "question": "Why did I need to remove the interior from the chassis?",
+        "answers": [
+            "You remove the interior from the chassis to attach nut to body."
+        ]
+    },
+    {
+        "toy_id": "c03c",
+        "sequence_id": "nusar-2021_action_both_9016-c03c_9016_user_id_2021-02-17_142449",
+        "video": {
+            "start": 84.23333333333333,
+            "end": 110.7
+        },
+        "question": "What should I do after rotating the cabin?",
+        "answers": [
+            "Position it on the body and grab a screw.",
+            "Make sure it aligns with the body, then grab the screwdriver.",
+            "You should attach the cabin to body with a screw."
+        ]
+    },
+    {
+        "toy_id": "c09b",
+        "sequence_id": "nusar-2021_action_both_9061-c09b_9061_user_id_2021-02-09_143132",
+        "video": {
+            "start": 215.26666666666668,
+            "end": 327.824362
+        },
+        "question": "Is there anything left to do?",
+        "answers": [
+            "Yes, attach the wheels.",
+            "Once the tire is attached, there's nothing more to do."
+        ]
+    },
+    {
+        "toy_id": "c09a",
+        "sequence_id": "nusar-2021_action_both_9064-c09a_9064_user_id_2021-02-22_165525",
+        "video": {
+            "start": 145.73333333333332,
+            "end": 270.813884
+        },
+        "question": "How do I attach the dump bed?",
+        "answers": [
+            "Connect the cylinders to the tabs and then screw the dump bed onto the rear base.",
+            "Rotate the dump bed and connect to the cylinders to attach the dump bed to the rear base."
+        ]
+    },
+    {
+        "toy_id": "c03f",
+        "sequence_id": "nusar-2021_action_both_9011-c03f_9011_user_id_2021-02-01_160239",
+        "video": {
+            "start": 97.2,
+            "end": 178.364336
+        },
+        "question": "Have I made any mistakes up to now?",
+        "answers": [
+            "No mistakes yet."
+        ]
+    },
+    {
+        "toy_id": "c02c",
+        "sequence_id": "nusar-2021_action_both_9035-c02c_9035_user_id_2021-02-18_153533",
+        "video": {
+            "start": 147.66666666666666,
+            "end": 275.585121
+        },
+        "question": "What's the next step?",
+        "answers": [
+            "Attach the bumper to the body.",
+            "Attach the roller to the push frame."
+        ]
+    },
+    {
+        "toy_id": "c07a",
+        "sequence_id": "nusar-2021_action_both_9032-c07a_9032_user_id_2021-02-04_115644",
+        "video": {
+            "start": 185.26666666666668,
+            "end": 208.718101
+        },
+        "question": "Is this a mistake?",
+        "answers": [
+            "Yes, you need to attach the interior first before the cabin."
+        ]
+    },
+    {
+        "toy_id": "b04a",
+        "sequence_id": "nusar-2021_action_both_9061-b04a_9061_user_id_2021-02-09_135722",
+        "video": {
+            "start": 201.1,
+            "end": 326.178081
+        },
+        "question": "Do I need to detach this?",
+        "answers": [
+            "No, the bumper is fine now.",
+            "No, you did not have to.",
+            "No, you should have kept it there."
+        ]
+    },
+    {
+        "toy_id": "a19",
+        "sequence_id": "nusar-2021_action_both_9023-a19_9023_user_id_2021-02-03_132936",
+        "video": {
+            "start": 157.8,
+            "end": 278.107243
+        },
+        "question": "Did I attach the ladder basket to the body at the right stage?",
+        "answers": [
+            "Yes, it was fine how you did it."
+        ]
+    },
+    {
+        "toy_id": "b05c",
+        "sequence_id": "nusar-2021_action_both_9021-b05c_9021_user_id_2021-02-23_094649",
+        "video": {
+            "start": 125.2,
+            "end": 276.515451
+        },
+        "question": "What is wrong with attaching the cabin to the interior now?",
+        "answers": [
+            "You need to attach the cabin before the bumper.",
+            "Yes, you must remove the mixer stand before you can attach the cabin to the interior.",
+            "You need to remove the cabin, then reattach the cabin before attaching the bumper."
+        ]
+    },
+    {
+        "toy_id": "b01b",
+        "sequence_id": "nusar-2021_action_both_9031-b01b_9031_user_id_2021-02-23_164014",
+        "video": {
+            "start": 158.53333333333333,
+            "end": 309.134651
+        },
+        "question": "Should I detach the arm connector now?",
+        "answers": [
+            "No, it's attached correctly."
+        ]
+    },
+    {
+        "toy_id": "b06d",
+        "sequence_id": "nusar-2021_action_both_9065-b06d_9095_user_id_2021-02-17_123817",
+        "video": {
+            "start": 153.0,
+            "end": 165.474497
+        },
+        "question": "What should I do next?",
+        "answers": [
+            "Attach the wheel to the chassis.",
+            "Attach the cabin to the interior.",
+            "Attach the tilter to the interior.",
+            "Attach the mixer to the mixer."
+        ]
+    },
+    {
+        "toy_id": "c06b",
+        "sequence_id": "nusar-2021_action_both_9025-c06b_9025_user_id_2021-02-03_160657",
+        "video": {
+            "start": 328.26666666666665,
+            "end": 488.098318
+        },
+        "question": "Should I attach the wheels now?",
+        "answers": [
+            "Yes, you can attach the wheels now.",
+            "You could attach the cabin to the interior first."
+        ]
+    },
+    {
+        "toy_id": "c07a",
+        "sequence_id": "nusar-2021_action_both_9062-c07a_9062_user_id_2021-02-09_155212",
+        "video": {
+            "start": 225.16666666666666,
+            "end": 296.463351
+        },
+        "question": "Did I attach the wheels in the right holes?",
+        "answers": [
+            "Yes, they are in the right place."
+        ]
+    },
+    {
+        "toy_id": "b03b",
+        "sequence_id": "nusar-2021_action_both_9022-b03b_9022_user_id_2021-02-03_113201",
+        "video": {
+            "start": 206.4,
+            "end": 248.732927
+        },
+        "question": "Was that a mistake?",
+        "answers": [
+            "No, you're doing great."
+        ]
+    },
+    {
+        "toy_id": "a02",
+        "sequence_id": "nusar-2021_action_both_9013-a02_9013_user_id_2021-02-02_130807",
+        "video": {
+            "start": 132.2,
+            "end": 565.189421
+        },
+        "question": "Did I forget anything?",
+        "answers": [
+            "No, you're all done."
+        ]
+    },
+    {
+        "toy_id": "b06a",
+        "sequence_id": "nusar-2021_action_both_9083-b06a_9083_user_id_2021-02-16_113603",
+        "video": {
+            "start": 134.93333333333334,
+            "end": 360.95
+        },
+        "question": "Did I make a mistake while attaching the tiller to the dump bed?",
+        "answers": [
+            "Yes, you turned it around the wrong way.",
+            "Yes, you need to rotate it by 180 degrees."
+        ]
+    },
+    {
+        "toy_id": "c02b",
+        "sequence_id": "nusar-2021_action_both_9063-c02b_9063_user_id_2021-02-17_094025",
+        "video": {
+            "start": 179.56666666666666,
+            "end": 307.447221
+        },
+        "question": "Should I have attached the arm connector to the body before attaching the bucket to the arm?",
+        "answers": [
+            "No, it's fine to attach the arm connector now.",
+            "No, it's fine to attach the arm connector before attaching the bucket to the arm.",
+            "These two steps can be done in either order."
+        ]
+    },
+    {
+        "toy_id": "c02c",
+        "sequence_id": "nusar-2021_action_both_9035-c02c_9035_user_id_2021-02-04_170431",
+        "video": {
+            "start": 202.63333333333333,
+            "end": 268.373984
+        },
+        "question": "Did I attach the roof at the right time?",
+        "answers": [
+            "Yes, it's fine.",
+            "Yes, you can attach the roof at any point."
+        ]
+    },
+    {
+        "toy_id": "c08a",
+        "sequence_id": "nusar-2021_action_both_9081-c08a_9081_user_id_2021-02-12_160626",
+        "video": {
+            "start": 137.26666666666668,
+            "end": 260.970432
+        },
+        "question": "Did I put the crane arm together correctly?",
+        "answers": [
+            "Yes, it all looks good."
+        ]
+    },
+    {
+        "toy_id": "c03e",
+        "sequence_id": "nusar-2021_action_both_9022-c03e_9022_user_id_2021-02-23_111647",
+        "video": {
+            "start": 91.76666666666667,
+            "end": 137.612068
+        },
+        "question": "Did I attach the body to the right place?",
+        "answers": [
+            "Yes, that's the correct end of the chassis to attach the body to."
+        ]
+    },
+    {
+        "toy_id": "a16",
+        "sequence_id": "nusar-2021_action_both_9041-a16_9041_user_id_2021-02-05_095801",
+        "video": {
+            "start": 352.1,
+            "end": 433.914946
+        },
+        "question": "Do I need to use a screw to attach the interior to the chassis?",
+        "answers": [
+            "Yes, it needs to be screwed in."
+        ]
+    },
+    {
+        "toy_id": "b06a",
+        "sequence_id": "nusar-2021_action_both_9016-b06a_9016_user_id_2021-02-17_141229",
+        "video": {
+            "start": 71.16666666666667,
+            "end": 105.479698
+        },
+        "question": "Should I have attached the wheels first?",
+        "answers": [
+            "No, it's fine.",
+            "No, you can attach the wheels at any time."
+        ]
+    }
+]

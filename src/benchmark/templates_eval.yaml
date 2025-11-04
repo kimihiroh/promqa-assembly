@@ -1,0 +1,36 @@
+prefix: |
+    ## Instruction ##
+    This is an evaluation task.
+    You will be given a question, gold answer(s), and predicted answer.
+    Your task is to evaluate if the predicted answer matches against the gold answer(s).
+step: |
+    Here is/are the step(s) they have already performed in the actual order:
+    {previous_steps}
+option: |
+    Give your ternary judge 0, 1, or 2:
+    * 0 means the predicted answer is wrong (unmatch)
+    * 1 means the predicted answer is partially correct/wrong (partial match)
+    * 2 means the predicted answer is correct (match)
+    When multiple gold answers are available (provided as a list), the predicted answer is correct/partially correct if it matches/partially matches with at least one of the gold answers.
+
+    Provide your feedback as follows:
+    ## Feedback ##
+    [Rationale] (your rationale for the judge, as a text)
+    [Judge] (your judge, as a number, 0, 1, or 2)
+note: |
+    ## Note ##
+    The question is being asked by a user who is playing with a take-apart toy.
+    Gold answer(s) are created by well-trained humans.
+    Predicted answer is created by a machine, based on the corresponding instruction and the frames of the assemblying process recording.
+task: |
+    ## Task ##
+    Now, here are the question, gold answer(s), and predicted answer:
+    [Question]
+    {question}
+    [Gold Answer(s)]
+    {gold_answer}
+    [Predicted Answer]
+    {predicted_answer}
+
+    ## Feedback ##
+    [Rationale]

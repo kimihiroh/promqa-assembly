@@ -1,0 +1,240 @@
+prefix:
+    default: |
+        # Instruction
+        You are playing with a take-apart toy alongside your senior friend, who has more experience with it.
+    answer: |
+        # Instruction
+        You are watching over your younger frined, who is playing with a take-apart toy. You are more experienced with it.
+image: |
+    Attached is the image of parts, final picture, and/or exploded view.
+performed_steps:
+    coarse: |
+        Here is/are the step(s) you have already performed in the actual order:
+        {previous_steps}
+    coarse+fine_all: |
+        Here is/are the step(s) you have already performed in the actual order (Note: the indented ones are the detailed, fine-grained steps):
+        {previous_steps}
+        The last step may be incomplete.
+    coarse+fine_part: |
+        Here is/are the step(s) you have already performed in the actual order (Note: the indented ones are the detailed, fine-grained steps):
+        {previous_steps}
+        The last step may be incomplete.
+    answer: |
+        Your younger frined has done the following steps in this order:
+        {previous_steps}
+graph_error_info:
+    default:
+        next:
+            true: |
+                Any of the steps below can be done as the possible next step:
+                {next_steps}
+                While your friend understand the correct orders, you may or may not know.
+            false: |
+                You do not have any possible next steps either because you have done all steps correctly or due to your previous mistake(s).
+                While your friend understand the correct orders, you may or may not know.
+        missing:
+            true: |
+                Here is/are the possible missing step(s):
+                {missing_steps}
+                While your friend understand this mistake, you may or may not know.
+            false: |
+                You do not have any missing steps either because you have followed the correct order or due to your previous mistake(s).
+                While your friend understand the correct orders, you may or may not know.
+        order:
+            true: |
+                The above list indicates the order error.
+                While your friend understand this mistake, you may or may not know.
+            false: |
+                The above list does not indicate any order error.
+                While your friend understand this mistake, you may or may not know.
+        past: |
+            The above list contains your previous mistake information, if any.
+            While your friend is aware of these, you may or may not know.
+        misadjustment: |
+            The above list contains some unnecessary steps that you should not have done, which may indicate your confusion.
+            While your friend is aware of these, you may or may not know.
+        general:
+        current_general:
+        location:
+            true : |
+                Your action history indicates some location errors.
+                While your friend is aware of these, you may or may not know.
+            false: |
+                Your action history does not show any location errors.
+                While your friend is aware of this, you may or may not know.
+    question:
+        next: |
+            Below is the remaining part(s):
+            {parts}
+        missing: |
+            Below is the remaining part(s):
+            {parts}
+        order: |
+            Below is the remaining part(s):
+            {parts}
+        past: |
+            Below is the remaining part(s):
+            {parts}
+        misadjustment: |
+            Below is the remaining part(s):
+            {parts}
+        general: |
+            Below is the remaining part(s):
+            {parts}
+        current_general:
+        location:
+    answer:
+        next:
+            true: |
+                Any of the steps below can be done as the possible next step:
+                {next_steps}
+            false: |
+                There is no possible next steps either because all steps are done correctly or due to their previous mistake(s).
+        missing:
+            true: |
+                Here is/are the possible missing step(s):
+                {missing_steps}
+            false: |
+                There is no missing steps either because they have followed the correct order or due to their previous mistake(s).
+        order:
+            true: |
+                The above list indicates their order error.
+            false: |
+                The above list does not indicate their order error.
+        past: |
+            The above list contains their previous mistake information that you noticed, if any.
+        misadjustment: |
+            The above list contains some unnecessary steps that they should not have done which you noticed, which may indicate their confusion.
+        general:
+        current_general:
+        location:
+            true : |
+                The action history indicates some location errors that you noticed.
+            false: |
+                The action history does not show any location errors.
+task_prompt:
+    default:
+        next: |
+            # Task
+            What question would you ask your senior friend regarding next steps?
+        missing: |
+            # Task
+            What question would you ask your senior friend regarding possible missing steps?
+        order: |
+            # Task
+            What question would you ask your senior friend regarding possible order mistakes?
+        past: |
+            # Task
+            What question would you ask your senior friend regarding the possible past mistakes?
+        misadjustment: |
+            # Task
+            What question would you ask your senior friend regarding the unnecessary steps, given that you are possibly confused?
+        general: |
+            # Task
+            What question would you ask your senior friend?
+        current_general: |
+            # Task
+            What question would you ask your senior friend regarding the current (latest) step?
+        location: |
+            # Task
+            What question would you ask your senior friend regarding the part location of the current (latest) step?
+    answer: |
+        # Task
+        Suppose you were asked the following question by your yonger friend:
+        Question: "{question}"
+        What response(s) would you give them?
+format:
+    default: |
+        Create three possible QAs as a list. Questions should be something you would ask to your friend and the answers are something your friend would say.
+        Follow the format below:
+        * <question 1>
+            * <answer 1>
+            * ...
+        * ...
+    question: |
+        Create three possible questions as a list.
+        Follow the format below:
+        * <question 1>
+        * <question 2>
+        * <question 3>
+    answer: |
+        Create possible answers as a list, like:
+        * <answer 1>
+        * ...
+note:
+    default: |
+        # Note
+        * Each question should require information about both A) what you have done and B) what you are supposed to do to answer correctly.
+        * Each question/answer should consist of one short and concise sentence/phrase.
+        * Your friend is watching over you, so you do not have to explain your situation, just ask questions directly.
+        * If multiple correct answers exist, provide all of them.
+        * Consider different personas you might adopt: careless/careful, child/teen/adult, casual/formal, etc.
+        * Return as diverse QA pairs as possible in terms of tone, wording, etc.
+        * Come up with different question types: yes/no-questions, Wh-questions, etc.
+    question: |
+        # Note
+        * Each question should require information about both A) what you have done and B) what you are supposed to do to answer correctly.
+        * Each question should consist of one short and concise sentence/phrase.
+        * Your friend is watching over you, so you do not have to explain your situation, just ask questions directly.
+        * Consider different personas you might adopt: careless/careful, child/teen/adult, casual/formal, etc.
+        * Return as diverse questions as possible in terms of tone, wording, etc.
+        * Come up with different question types: yes/no-questions, Wh-questions, etc.
+    answer: |
+        # Note
+        * An answer should consist of one concise sentence/phrase.
+        * If multiple correct answers exist, provide all of them.
+    inline-demonstration: |
+        # Note
+        * Each question should require information about both A) what you have done and B) what you are supposed to do to answer correctly.
+            * e.g., {demonstration}
+        * Each question/answer should consist of one short and concise sentence/phrase.
+        * Your friend is watching over you, so you do not have to explain your situation, just ask questions directly.
+        * If multiple correct answers exist, provide all of them.
+        * Consider different personas you might adopt: careless/careful, child/teen/adult, casual/formal, etc.
+        * Return as diverse QA pairs as possible in terms of tone, wording, etc.
+        * Come up with different question types: yes/no-questions, Wh-questions, etc.
+suffix: |
+    # Response
+example:
+    default: |
+        # Example
+        * {demonstration1}
+            * ...
+        * {demonstration2}
+            * ...
+        * ...
+    question: |
+        # Example
+        * {demonstration1}
+        * {demonstration2}
+        * ...
+demonstrations:
+    next:
+        - "How can I proceed from now?"
+        - "Can I attach X next?"
+        - "What should I do next?"
+        - "Can this be attached before X?"
+        - "Can you remind me of the next step?"
+    missing:
+        - "Did I miss anything earlier?"
+        - "What did I forget to assemble?"
+        - "Are there any parts that I skipped attaching?"
+        - "Is there anything left to do?"
+    order:
+        - "Did I follow the correct order for this part?"
+        - "Am I following the right order so far?"
+        - "Can you check if I am attaching parts in the expected order?"
+    past:
+        - "Did I attach X correctly?"
+        - "Was I attach X and Y in the right order?"
+        - "Did I make mistake by X first?"
+        - "Did I make any mistake?"
+    misadjustment:
+        - "Am I following the right order now?"
+        - "Was X necessary to do?"
+        - "Why did I detach X?"
+        - "Was detaching X correct?"
+    location:
+        - "Is X in the right place?"
+        - "Is this attached to the right location?"
+        - "Where should I put this now?"
