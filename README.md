@@ -44,7 +44,7 @@ git clone https://huggingface.co/datasets/kimihiroh/promqa-assembly-frames
 cd <...>/promqa-assembly
 bash src/unzip_all.sh <dirpath_hf>/promqa-assembly-frames
 ```
-If you want the data as video in original resolution, please check [the following instruction](####full-data).
+If you want the data as videos in original resolution, please check [the following instruction](####full-data).
 
 #### Full Data
 * Preparation
@@ -73,6 +73,7 @@ If you want the data as video in original resolution, please check [the followin
     * Clone https://github.com/assembly-101/assembly101-mistake-detection in `repos`
 * Note
     * The download operation may need to be restarted after waiting for a day. [[ref](https://research.google.com/colaboratory/faq.html#drive-quota)]
+
 Now, you can skip to [the benchmark section](##benchmarking) if you do not annotate QAs by yourself.
 
 
@@ -134,7 +135,6 @@ bash src/benchmark/sample_frame.sh <output_dir> <output_dir_frame>
 ```
 
 ### Inference
-- [ ] remove
 Make sure to set an API key as an environment variable, e.g., `export OPENAI_API_KEY=<your_key>`
 ```bash
 bash src/benchmark/run_api.sh <output_dir_frame> gpt-4o-2024-11-20 default
