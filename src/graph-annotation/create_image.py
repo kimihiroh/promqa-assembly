@@ -108,6 +108,9 @@ if __name__ == "__main__":
 
     args = parser.parse_args()
 
+    if not args.dirpath_log.exists():
+        args.dirpath_log.mkdir(parents=True)
+
     logging.basicConfig(
         format="%(asctime)s:%(levelname)s - %(message)s",
         datefmt="%Y-%m-%d %H:%M:%S",
