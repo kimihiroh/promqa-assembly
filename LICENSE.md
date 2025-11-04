@@ -5,7 +5,7 @@ The code in this repo is available under [Apache License 2.0](https://www.apache
 # Data License:
 
 ## Parts image and step annotation: CC BY-NC 4.0
-Following the license of [Assembly 101](https://github.com/CaptainCook4D/), parts images and step annotations under `./data/` are available under the Creative Commons Attribution-NonCommerial 4.0 International License ([CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/)).
+Following the license of [Assembly 101](https://github.com/assembly-101/assembly101-download-scripts), parts images and step annotations under `./data/` are available under the Creative Commons Attribution-NonCommerial 4.0 International License ([CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/)).
 
 ## QA Data: Mixed
 `data/all_v*.json` mainly consists of the following elements, in addition to the step annotations mentioned above:
