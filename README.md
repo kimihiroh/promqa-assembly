@@ -1,11 +1,12 @@
 # ProMQA-Assembly: Multimodal Procedural QA Dataset on Assembly.
-This is the official repository for "[ProMQA-Assembly: Multimodal Procedural QA Dataset on Assembly](https://arxiv.org/abs/2509.02949)" (Hasegawa et al., arXiv 2025).
+This is the official repository for "[ProMQA-Assembly: Multimodal Procedural QA Dataset on Assembly](https://arxiv.org/abs/2509.02949)" (Hasegawa et al., LREC 2026).
 
 It contains code and data for:
-* Data annotation: preprocess, generation, and verification
+* Data annotation: preprocessing, generation, and verification
 * Benchmarking: download, prediction, and evaluation
 
 ## News
+* 2026/02/12: ProMQA-Assembly got accepted to LREC 2026!
 * 2025/11/04: Additional 255 QA pairs are added. In total, 646 QAs are now available (`data/all_v1.json`).
 * 2025/09/03: 391 QA pairs are now available (`data/all_v0.json`).
 
@@ -165,12 +166,12 @@ bash src/benchmark/evaluate.sh <target_prediction_filename>
 
 If you find this work helpful in your research, please consider citing our work.
 ```bib
-@article{hasegawa-etal-2025-promqa-assembly,
-      title={ProMQA-Assembly: Multimodal Procedural QA Dataset on Assembly},
-      author={Hasegawa, Kimihiro and Imrattanatrai, Wiradee and Asada, Masaki and Holm, Susan and Wang, Yuran and Zhou, Vincent and Fukuda, Ken and Mitamura, Teruko},
-      year={2025},
-      archivePrefix={arXiv},
-      eprint={2509.02949},
+@article{hasegawa-etal-2026-promqa-assembly,
+   title={ProMQA-Assembly: Multimodal Procedural QA Dataset on Assembly},
+   author={Hasegawa, Kimihiro and Imrattanatrai, Wiradee and Asada, Masaki and Holm, Susan and Wang, Yuran and Zhou, Vincent and Fukuda, Ken and Mitamura, Teruko},
+   booktitle = {Proceedings of the Language Resources and Evaluation Conference},
+   year={2026},
+   publisher = {European Language Resources Association},
 }
 ```
 
